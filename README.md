@@ -14,8 +14,7 @@
 |4|30/05/23|FEELINGS/THOUGHTS in the model. Coherence and cohesion – 2. Reference words.|1-4|Reading – Reflecting on yourself and your experiences, pp. 24-28. Quiz based on reading. Writing activity.|Preparation videos for next session, |
 |5|06/06/23|EVALUATION element in the model.<br> Paragraph structure <br>   • Topic sentences    • Supporting details    • Concluding sentence |1-4|Reading – Gibbs’ reflective cycle, pp. 110-121. Quiz based on reading. Writing activity. Preparation videos for next session.|Digital skills Teamwork skills Interpersonal skills Time management skills Problem-solving skills Communication skills – verbal and written
 |6|13/06/23|ANALYSIS element in the model. Sample RW assignment and marking criteria.|1-4|Reading - Reflective and critical writing AND Asking strategic questions, pp. 14-22. Quiz based on reading. Writing activity. Preparation videos for next session.| Organisation skills Communication skills – verbal and written Problem-solving skills Collaboration skills Independent working skills|
-
-
+|7|20/02/23|CONCLUSION in the model.Formality in reflective writing.|1-4|Reading - Linking theory and practice, pp. 79-84. Quiz based on reading.  Writing activity. Preparation videos for next session. |Collaboration skills Communication skills – verbal and written <br>Organisation skills Critical thinking skills Problem-solving skills|
 
 
 ## SUGGESTED READINGS
