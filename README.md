@@ -4,7 +4,7 @@
 >- ### Scheme of work	
 >- ### Communication Skills 1 - CS1 
 >- ### Trimester 3 2022-23
------
+---
 | Wk  No |W/c on|Main topics covered|LOs|Independent study tasks|Employability skills|
 --------|-------|------------------|--|--|-------------------------|
 | 1| 09/05/23|Course introduction|1-4| Reading – About reflection, pp.2-6.|Verbal communication skills|     
@@ -12,6 +12,9 @@
 ||| Overview of the course.                       ||Writing activity.|Digital skills|
 ||| Assessment details and marking criteria.      ||Preparation videos for next lesson.|Self-management skills|
 ||| Access to VLE, coursebook and other resources.|||Collaboration skills|
+|2|16/05/23|Introduction to reflective practice. Gibb’s reflective model. Introduction in the RW paper.||Reading –Getting started on reflective writing, pp. 7-13. Quiz based on reading. Writing activity. Preparation videos for next lesson.|Digital skills Teamwork skills Interpersonal skills Problem-solving skills Verbal and written communication skills Critical thinking skills|
+
+
 
 
 
