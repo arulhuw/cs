@@ -15,9 +15,9 @@ Activity 3: Module Information Quiz 3 (Resources) Activity 3
 
 
 - ### TASK 2: week 1: 
-- Homework Quiz To be taken after reading pp.2-6 in the coursebook 
+- ### Homework Quiz To be taken after reading pp.2-6 in the coursebook 
 
 
 
-- ## TASK 3. 
+- ### TASK 3. 
 - ### [Independent study Week 1 Writing activity TASK 3. Independent study Week 1 Writing activity](materials/IndependentstudyWeek1Writingactivity.docx)
