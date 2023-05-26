@@ -100,3 +100,5 @@ b. Because by the end of these modules, it is expected that you will have develo
 c. Because they will definitely get you a job as you will have excellent communication skills by the end of these modules
 d. Because the name ‘Communication Skills’ suits well with the names of the other modules.
 ---
+
+## Assessment
