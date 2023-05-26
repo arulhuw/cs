@@ -102,3 +102,14 @@ d. Because the name ‘Communication Skills’ suits well with the names of the 
 ---
 
 ## Assessment
+
+### Task summary: 
+
+#### Produce a 1500-word reflective writing that describes, evaluates, and analyses an aspect of your student life in ARUL. 
+
+Choose only one of the following aspects of your ARUL student life for your reflective writing:
+<span style="color:blue">
+1. Materials and activities used in your lessons/lectures
+2. ARUL campus facilities and amenities
+3. Involvement and participation in your lessons/lectures
+ </span>
