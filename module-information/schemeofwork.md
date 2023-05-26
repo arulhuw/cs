@@ -1,8 +1,4 @@
-# CS1_2305 (Communication Skills 1)
-## Module Information
-
-
->- ### Scheme of work	
+# Scheme of work	
 >- ### Communication Skills 1 - CS1 
 >- ### Trimester 3 2022-23
 ---
@@ -20,25 +16,17 @@
 |10|11/07/23|MS Word. Turnitin.|1-4|Reading - Getting the balance right, pp. 96-99. Quiz based on reading. Check TNTN report for instances of plagiarism and formatting the RW. Preparation videos for next session.|Digital skills Team working skills Problem-solving skills Organisation skills Self-management skills Interpersonal skills|
 |11|18/07/23|Editing & Proof reading.Using feedback.Assignment Checklist.|1-4|Editing Proofreading their RW. Using the Checklist to ensure the RW paper is ready.| Problem-solving skills Communication skills – written Digital skills Independent working skills
 |12| 25/07/23|Feedback session.Final editing & Proofreading. Submission. |1-4| Assignment submission |Time management skills Independent working skills Written communication skills Digital skills|
+---
+
+## Learning Objectives (LO’s)
 
 
-## SUGGESTED READINGS
-
->### You are expected to use at least three references in your reflective writing. You may use the following or any of your own sources relevant to the work.
-
- - Bubnys, R. & Zydziunaite, V., (2010). Reflective learning models in the context of higher education: Concept analysis. Problems of Education in 21st Century. 20 (1), pp. 58-66.
-
-- Franco, R.S., Franco, C.A.G. dos S., Severo, M., Ferreira, M.A. and Karnieli-Miller, O. (2022). Reflective writing in the teaching of communication skills for medical students—A systematic review. Patient education and counselling, 105(7), pp. 1842–1851.
-
-- Gibbs, G. (1988). Learning by Doing. A Guide to Teaching and Learning Methods. Oxford Centre for Staff and Learning Development. Oxford Brooks University Press: Oxford, UK.
-
-- Quinton, S., and T. Smallbone. (2010). Feeding Forward: Using Feedback to Promote Student Reflection and Learning – A Teaching Model. Innovations in Education and Teaching International 10 (1): pp. 125–135.
-
-- Ryan, M. (2011). Improving reflective writing in higher education: a social semiotic perspective. Teaching in higher education, 16(1), pp. 99–111.
-
-- Schön, D. (1991). The Reflective Practitioner: How Professionals Think in Action.  Avebury Publishing: Aldershot.
-
-- Williams, K., Woolliams, M., and Spiro, J. (2020) Reflective writing. Bloomsbury Publishing: London
-
-
-
+|No|Type| On successful completion of this module, students will be expected to be able to:|
+|--|----|----------------------------------------------------------------------------------|
+|1|Knowledge and Understanding|Understand the requirements of higher education including professional behaviour, communication and academic discourse|
+|2|Knowledge and Understanding |Understand the requirements of higher education including critical thinking, reflective practice and academic discussion|
+|3|Intellectual, practical, affective and transferable skills |Demonstrate satisfactory academic skills and a basic understanding of research
+|4|Intellectual, practical, affective and transferable skills |Demonstrate an understanding of and satisfactory foundation in reflective practice and academic discussion|
+---
+## Main reading for the course
+>Reflective Writing (2020) by Kate Williams, Mary Woolliams & Jane Spiro. Bloomsbury Publishing PLC.
