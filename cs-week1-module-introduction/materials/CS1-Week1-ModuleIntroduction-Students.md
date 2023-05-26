@@ -68,37 +68,37 @@ D(Prof, Dev Skills <br/>1& 2 )
 - Answer Activity 1 - Module Information Quiz 1 (Module aims + scope)
 
 1. Which of these modules is Communication Skills 1 designed to work alongside?
-a. Data Skills 1 & 2 
-b. Research Skills 1 & 2
-c. Professional Development 1 & 2
-d. **Communication Skills 2** ✔
+    a. Data Skills 1 & 2 
+    b. Research Skills 1 & 2
+    c. Professional Development 1 & 2
+    d. **Communication Skills 2** ✔
 ---
 2. Which employability skills will be developed on this module?
-a. Public speaking skills
-b. Argumentation skills
-c. Evidence-finding skills
-d. Information structuring ✔
-e. Self-assessment skills ✔
-f. Meeting skills
-g. Practical IT skills ✔
-h. Attention to detail ✔
-i. Devising action plans ✔
-j. Language and formality skills ✔
-k. Interpretation and explanation skills ✔
+    a. Public speaking skills
+    b. Argumentation skills
+    c. Evidence-finding skills
+    d. Information structuring ✔
+    e. Self-assessment skills ✔
+    f. Meeting skills
+    g. Practical IT skills ✔
+    h. Attention to detail ✔
+    i. Devising action plans ✔
+    j. Language and formality skills ✔
+    k. Interpretation and explanation skills ✔
 ---
 3. Pick the odd one(s) out.
-a. Professional Development Skills
-b. Business Management Skills ✔
-c. Data Skills
-d. Communication Skills
-e. Research Skills
-f. Personal Development Skills ✔
+    a. Professional Development Skills
+    b. Business Management Skills ✔
+    c. Data Skills
+    d. Communication Skills
+    e. Research Skills
+    f. Personal Development Skills ✔
 ---
 4. Why do you think this module (and the second part of this module) are named Communication Skills?
-a. Because they help you communicate better on social media.
-b. Because by the end of these modules, it is expected that you will have developed your written and verbal communication skills. ✔
-c. Because they will definitely get you a job as you will have excellent communication skills by the end of these modules
-d. Because the name ‘Communication Skills’ suits well with the names of the other modules.
+    a. Because they help you communicate better on social media.
+    b. Because by the end of these modules, it is expected that you will have developed your written and verbal communication skills. ✔
+    c. Because they will definitely get you a job as you will have excellent communication skills by the end of these modules
+    d. Because the name ‘Communication Skills’ suits well with the names of the other modules.
 ---
 
 ## Assessment
@@ -108,8 +108,24 @@ d. Because the name ‘Communication Skills’ suits well with the names of the 
 #### Produce a 1500-word reflective writing that describes, evaluates, and analyses an aspect of your student life in ARUL. 
 
 Choose only one of the following aspects of your ARUL student life for your reflective writing:
-<span style="color:blue">
-1. Materials and activities used in your lessons/lectures
+<span style="color:red">1. Materials and activities used in your lessons/lectures 
 2. ARUL campus facilities and amenities
 3. Involvement and participation in your lessons/lectures
- </span>
+</span>
+> Following Gibbs’ 6-element reflective model <span style="color:red"> (covered in weeks 3 – 7 on the course)</span>, students are expected to reflect on the chosen aspect and produce a work that has the six elements namely Description, <span style="color:red">Feelings/thoughts, Evaluation, Analysis, Conclusion, and Action plan. </span>
+---
+
+## Assignment structure
+
+|Section| Approximate Wordcount|
+|-------|----------------------|
+|1. Title page Module name & code, essay title, SID & wordcount|N/A|
+|2. Content page|N/A| 
+|3. Introduction| 150 words|
+|4. Description of the chosen aspect|225 words|
+|5. Feelings / thoughts|225 words|
+|6. Evaluation|225 words
+|7. Analysis|225 words|
+|8. Conclusion|225 words|
+|9. Action plan|225 words|
+|10. References|N/A| 
