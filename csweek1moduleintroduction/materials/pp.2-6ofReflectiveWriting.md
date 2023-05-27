@@ -1,10 +1,9 @@
-- [1 About reflection](#1-about-reflection)
+- [About reflection](#about-reflection)
 - [Why reflect?](#why-reflect)
-  - [Reflection has helped me recognise ...](#reflection-has-helped-me-recognise-)
 - [Reflection for life](#reflection-for-life)
 - [Starting out on reflection](#starting-out-on-reflection)
 
-## 1 About reflection
+##  About reflection
 Reflection starts with thinking about something. As Jenny Moon (2005 p. 1) observes, we don’t reflect on ‘simple’ things like the route to the corner shop, but on ***things for which there is not an obvious or immediate solution’.**
 
 
@@ -29,7 +28,7 @@ A very good reason to reflect is because it helps you to learn.
 Students on an MA course explained what they learnt through reflection:
 
 
-### Reflection has helped me recognise ...
+> ## Reflection has helped me recognise ...
 ---
 - Patterns and routines that weren’t really helpful. I have started to think more
 carefully about how and why I do things, and change them if they aren’t working.
@@ -63,14 +62,3 @@ G(Be a bit more <br> assertive in the discussions and <br> when tasks are handed
 H(Try to speak<br> more even if we do not know <br>each other well.)
 I(Split into <br>smaller groups with <br>specific roles.)
 ```
-
-
-
-
-
-
-
-
-
-
-
