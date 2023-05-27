@@ -14,13 +14,13 @@ It is not just to do with the subject matter of what you are thinking about or l
 but how you think about it and how you learn.
 
 Being reflective involves being:
-- open to different ideas, seeing things from different angles
-- curious – asking questions
-- patient – if the issue is not ‘simple’, the answer probably isn’t either (although it
+- **open** to different ideas, seeing things from different angles
+- **curious** – asking questions
+- **patient** – if the issue is not ‘simple’, the answer probably isn’t either (although it
 can suddenly jump out at you)
-- honest with yourself, your uncertainties, what you’re getting wrong – or right – and
+- **honest** with yourself, your uncertainties, what you’re getting wrong – or right – and
 your writing needs to make this transparent to others, so they can see it too
-- rigorous – being analytical, and acting on the insights you gain.
+- **rigorous** – being analytical, and acting on the insights you gain.
 
 
 ## Why reflect?
@@ -30,13 +30,13 @@ Students on an MA course explained what they learnt through reflection:
 
 
 ### Reflection has helped me recognise ...
-
+---
 - Patterns and routines that weren’t really helpful. I have started to think more
 carefully about how and why I do things, and change them if they aren’t working.
 - My own strengths that I hadn’t appreciated before. It has given me a lot more
 confidence.
 - Why my writing wasn’t improving. I wasn’t reading feedback carefully enough.
-
+---
 Reflection in a programme of study or a professional context is a purposeful activity.
 Purposeful reflection can change how we think about things, what we do, how we do
 it, and can lead to specific changes in planning for what we do next.
@@ -51,57 +51,26 @@ development that continues throughout life (see Part 6).
 The following illustration shows some of the outcomes of the reflections on a group
 task of some Product Design students in the first weeks of their course.
 
-
->Start by introducing
-ourselves and getting
-everyone to say what
-they are good at.
-
-
->Work at
-a faster
-pace and
-multitask.
-
-
->Give more feedback
-on other people’s ideas
-early on.
+```mermaid
+flowchart LR 
+A(Start by introducing <br>ourselves and getting everyone<br> to say what they are good at)
+B(Work at a faster <br/>pace and multitask.)
+C(Give more<br> feedback  onother people`s<br> ideas early on.)
+D(If I did this project<br> over again I would ...)
+E(Construct a timetable<br> for the group <br> so as not to waste time.)
+F(Figure out exactly how <br>it might work before<br> investing in any materials.)
+G(Be a bit more <br> assertive in the discussions and <br> when tasks are handed out.)
+H(Try to speak<br> more even if we do not know <br>each other well.)
+I(Split into <br>smaller groups with <br>specific roles.)
+```
 
 
 
->If I did this
-project over again I
-would ...
 
 
 
->Construct a timetable
-for the group so as
-not to waste time.
 
 
 
->Figure out exactly
-how it might work
-before investing in
-any materials.
 
 
-
->Be a bit more assertive
-in the discussions
-and when tasks are
-handed out.
-
-
->Try to speak
-more even if we
-do not know
-each other well.
-
-
->Split into
-smaller
-groups with
-specific roles.
