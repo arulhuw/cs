@@ -5,11 +5,10 @@
     - [markdown](materials/CS1-Week1-ModuleIntroduction-Students.md)
 - CS1 - Week 1 - Module Introduction Lecturers
   -  [power point ](materials/CS1-Week1-ModuleIntroduction-Lecturers.pptx)
-
 ## ACTIVITIES
 - [Activity 1: Module Information Quiz 1 (Module Aims+Scope)](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
-- [Activity 2: Module Information Quiz 2 (Assessment Activity](/csweek1moduleintroduction/materials/Activity%202ModuleInformationQuiz%202(Assessment)Activity2.md)
-- Activity 3: Module Information Quiz 3 (Resources) Activity 3
+- [Activity 2: Module Information Quiz 2 (Assessment Activity](/csweek1moduleintroduction/materials/Activity2ModuleInformationQuiz2(Assessment)Activity2.md)
+- [Activity 3: Module Information Quiz 3 (Resources) Activity 3](/csweek1moduleintroduction/materials/Activity3ModuleInformationQuiz3(Resources)Activity3.md)
 
 ## INDEPENDENT STUDY TASKS – Week 1
  - ### TASK 1 Reading:
