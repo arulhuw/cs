@@ -11,7 +11,6 @@
   - [Assessment](#assessment)
     - [Task summary:](#task-summary)
   - [Assignment structure](#assignment-structure)
-  - [|10. References|N/A|](#10-referencesna)
   - [Marking criteria - 1](#marking-criteria---1)
   - [Marking criteria - 2](#marking-criteria---2)
   - [Marking criteria - 3](#marking-criteria---3)
