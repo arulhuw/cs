@@ -1,8 +1,9 @@
 - [About reflection](#about-reflection)
 - [Why reflect?](#why-reflect)
 - [Reflection for life](#reflection-for-life)
-- [Starting out on reflection](#starting-out-on-reflection)
-- [Notes](#notes)
+- [starting out on reflection](#starting-out-on-reflection)
+- [notes](#notes)
+- [| f(a time investment)               |  f(A time investment)               |](#-fa-time-investment-----------------fa-time-investment---------------)
 
 ##  About reflection
 Reflection starts with thinking about something. As Jenny Moon (2005 p. 1) observes, we don’t reflect on ‘simple’ things like the route to the corner shop, but on ***things for which there is not an obvious or immediate solution’.**
@@ -47,49 +48,34 @@ and professions encourage people to become ‘reflective practitioners’. Refle
 on an experience and learning from it is the basis of professional and personal
 development that continues throughout life (see Part 6).
 
-## Starting out on reflection
-The following illustration shows some of the outcomes of the reflections on a group
-task of some Product Design students in the first weeks of their course.
+## starting out on reflection
+the following illustration shows some of the outcomes of the reflections on a group
+task of some product design students in the first weeks of their course.
 
 ```mermaid
-flowchart LR 
-A(Start by introducing <br>ourselves and getting everyone<br> to say what they are good at)
-B(Work at a faster <br/>pace and multitask.)
-C(Give more<br> feedback  onother people`s<br> ideas early on.)
-D(If I did this project<br> over again I would ...)
-E(Construct a timetable<br> for the group <br> so as not to waste time.)
-F(Figure out exactly how <br>it might work before<br> investing in any materials.)
-G(Be a bit more <br> assertive in the discussions and <br> when tasks are handed out.)
-H(Try to speak<br> more even if we do not know <br>each other well.)
-I(Split into <br>smaller groups with <br>specific roles.)
+flowchart lr 
+a(start by introducing <br>ourselves and getting everyone<br> to say what they are good at)
+b(work at a faster <br/>pace and multitask.)
+c(give more<br> feedback  onother people`s<br> ideas early on.)
+d(if i did this project<br> over again I would ...)
+e(construct a timetable<br> for the group <br> so as not to waste time.)
+f(figure out exactly how <br>it might work before<br> investing in any materials.)
+g(be a bit more <br> assertive in the discussions and <br> when tasks are handed out.)
+h(try to speak<br> more even if we do not know <br>each other well.)
+i(split into <br>smaller groups with <br>specific roles.)
 ```
 
 ---
-## Notes
+## notes
 
 
-| Reflective writing is...|             
-|-------------------------|
-```mermaid 
-flowchart  LR
-a(Written in the first person)
-b(Analytical)
-c(Free flowing)
-d(Subjective)
-e(A tool to challenge assumptions)
-f(A time investment)
-```
-
-
-
-| Reflective writing is...|             
-|-------------------------|
-```mermaid 
-flowchart  LR 
-a(Written in the first person)
-b(Analytical)
-c(Free flowing)
-d(Subjective)
-e(A tool to challenge assumptions)
-f(A time investment)
-```
+| reflective writing is...           |  Reflective writing is...           |       
+|------------------------------------| ------------------------------------|
+| flowchart  lr                      |  flowchart  LR                      |
+| a(written in the first person)     |  a(Written in the first person)     |
+| b(analytical)                      |  b(Analytical)                      |
+| c(free flowing)                    |  c(Free flowing)                    |
+| d(subjective)                      |  d(Subjective)                      |
+| e(a tool to challenge assumptions) |  e(A tool to challenge assumptions) |
+| f(a time investment)               |  f(A time investment)               |
+---
