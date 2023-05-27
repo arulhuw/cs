@@ -53,7 +53,7 @@ the following illustration shows some of the outcomes of the reflections on a gr
 task of some product design students in the first weeks of their course.
 
 ```mermaid
-flowchart lr 
+flowchart LR 
 a(start by introducing <br>ourselves and getting everyone<br> to say what they are good at)
 b(work at a faster <br/>pace and multitask.)
 c(give more<br> feedback  onother people`s<br> ideas early on.)
