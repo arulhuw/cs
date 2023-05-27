@@ -3,15 +3,6 @@
   - [Reflection has helped me recognise ...](#reflection-has-helped-me-recognise-)
 - [Reflection for life](#reflection-for-life)
 - [Starting out on reflection](#starting-out-on-reflection)
-- [they are good at.](#they-are-good-at)
-- [multitask.](#multitask)
-- [early on.](#early-on)
-- [would ...](#would-)
-- [not to waste time.](#not-to-waste-time)
-- [any materials.](#any-materials)
-- [handed out.](#handed-out)
-- [each other well.](#each-other-well)
-- [specific roles.](#specific-roles)
 
 ## 1 About reflection
 Reflection starts with thinking about something. As Jenny Moon (2005 p. 1) observes, we don’t reflect on ‘simple’ things like the route to the corner shop, but on ***things for which there is not an obvious or immediate solution’.**
@@ -61,56 +52,56 @@ The following illustration shows some of the outcomes of the reflections on a gr
 task of some Product Design students in the first weeks of their course.
 
 
----
-Start by introducing
+>Start by introducing
 ourselves and getting
 everyone to say what
 they are good at.
----
----
-Work at
+
+
+>Work at
 a faster
 pace and
 multitask.
----
----
----
-Give more feedback
+
+
+>Give more feedback
 on other people’s ideas
 early on.
----
----
-If I did this
+
+
+
+>If I did this
 project over again I
 would ...
----
----
-Construct a timetable
+
+
+
+>Construct a timetable
 for the group so as
 not to waste time.
----
----
-Figure out exactly
+
+
+
+>Figure out exactly
 how it might work
 before investing in
 any materials.
----
----
-Be a bit more assertive
+
+
+
+>Be a bit more assertive
 in the discussions
 and when tasks are
 handed out.
----
----
-Try to speak
+
+
+>Try to speak
 more even if we
 do not know
 each other well.
----
----
-Split into
+
+
+>Split into
 smaller
 groups with
 specific roles.
----
----
