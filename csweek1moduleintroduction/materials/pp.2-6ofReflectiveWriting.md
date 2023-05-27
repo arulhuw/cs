@@ -2,14 +2,13 @@
 - [Why reflect?](#why-reflect)
 - [Reflection for life](#reflection-for-life)
 - [starting out on reflection](#starting-out-on-reflection)
-- [notes](#notes)
-- [| f(a time investment)               |||  f(A time investment)               |](#-fa-time-investment-----------------fa-time-investment---------------)
+- [Notes](#notes)
 
 ##  About reflection
 Reflection starts with thinking about something. As Jenny Moon (2005 p. 1) observes, we don’t reflect on ‘simple’ things like the route to the corner shop, but on ***things for which there is not an obvious or immediate solution’.**
 
 
-You could say that reflection is not about what you’re going to have for dinner this evening as you whizz round the shops. But it could be. If you are thinking about who will be eating it, what happened last time, then something as apparently simple as a shopping list could involve a lot of reflection.
+You could say that **reflection is not about what you’re going to have for dinner this evening as you whizz round the shops.** But it could be. If you are thinking about who will be eating it, what happened last time, then **something as apparently simple as a shopping list could involve a lot of reflection.**
 
 It is not just to do with the subject matter of what you are thinking about or learning,
 but how you think about it and how you learn.
@@ -66,16 +65,13 @@ i(split into <br>smaller groups with <br>specific roles.)
 ```
 
 ---
-## notes
+## Notes
 
----
-| reflective writing is...           |||  Reflective writing is...           |       
-|------------------------------------|-|-| ------------------------------------|
-| flowchart  lr                      |||  flowchart  LR                      |
-| a(written in the first person)     |||  a(Written in the first person)     |
-| b(analytical)                      |||  b(Analytical)                      |
-| c(free flowing)                    |||  c(Free flowing)                    |
-| d(subjective)                      |||  d(Subjective)                      |
-| e(a tool to challenge assumptions) |||  e(A tool to challenge assumptions) |
-| f(a time investment)               |||  f(A time investment)               |
----
+| reflective writing is...        |||  Reflective writing is...           |       
+|---------------------------------|-|-| ----------------------------------|
+| written in the first person     |||  (Written in the first person)     |
+| analytical                      |||  (Analytical)                      |
+| free flowing                    |||  (Free flowing)                    |
+| subjective                      |||  (Subjective)                      |
+| a tool to challenge assumptions |||  (A tool to challenge assumptions) |
+| a time investment               |||  (A time investment)               |
