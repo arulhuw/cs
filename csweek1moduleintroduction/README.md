@@ -13,7 +13,9 @@
 
 ## INDEPENDENT STUDY TASKS – Week 1
  - ### TASK 1 Reading:
-[**READ: ***Reflective Writing** Section 1 pp 2-6 About reflection](materials/pp.2-6ofReflectiveWritingPDF.pdf) 
+- **READ: ***Reflective Writing** Section 1 pp 2-6 About reflection 
+  - [pdf](materials/pp.2-6ofReflectiveWritingPDF.pdf) 
+  - [Markdown](materials/pp.2-6ofReflectiveWritingPDF.md) 
 
 
 - ### TASK 2: week 1: 
@@ -22,7 +24,9 @@
 
 
 - ### TASK 3. 
-- ### [Independent study Week 1 Writing activity TASK 3. Independent study Week 1 Writing activity](/csweek2GibbsModel%26Introduction/Independentstudy-Week2writingactivity.md)
+- ### Independent study Week 1 Writing activity TASK 3. Independent study Week 1 Writing activity
+  - [Markdown](/csweek2GibbsModel%26Introduction/Independentstudy-Week2writingactivity.md)
+  - [Ms Word (docx)](/csweek2GibbsModel%26Introduction/Independentstudy-Week2writingactivity.docx)
 
 
 - ## Task 4
