@@ -2,6 +2,7 @@
 - [Why reflect?](#why-reflect)
 - [Reflection for life](#reflection-for-life)
 - [Starting out on reflection](#starting-out-on-reflection)
+- [Notes](#notes)
 
 ##  About reflection
 Reflection starts with thinking about something. As Jenny Moon (2005 p. 1) observes, we don’t reflect on ‘simple’ things like the route to the corner shop, but on ***things for which there is not an obvious or immediate solution’.**
@@ -61,4 +62,34 @@ F(Figure out exactly how <br>it might work before<br> investing in any materials
 G(Be a bit more <br> assertive in the discussions and <br> when tasks are handed out.)
 H(Try to speak<br> more even if we do not know <br>each other well.)
 I(Split into <br>smaller groups with <br>specific roles.)
+```
+
+---
+## Notes
+
+
+| Reflective writing is...|             
+|-------------------------|
+```mermaid 
+flowchart  LR
+a(Written in the first person)
+b(Analytical)
+c(Free flowing)
+d(Subjective)
+e(A tool to challenge assumptions)
+f(A time investment)
+```
+
+
+
+| Reflective writing is...|             
+|-------------------------|
+```mermaid 
+flowchart  LR 
+a(Written in the first person)
+b(Analytical)
+c(Free flowing)
+d(Subjective)
+e(A tool to challenge assumptions)
+f(A time investment)
 ```
