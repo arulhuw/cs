@@ -7,8 +7,8 @@
   -  [power point ](materials/CS1-Week1-ModuleIntroduction-Lecturers.pptx)
 
 ## ACTIVITIES
-- [Activity 1: Module Information Quiz 1 (Module Aims+Scope) Activity 1](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
-- [Activity 2: Module Information Quiz 2 (Assessment) Activity 2](/csweek1moduleintroduction/materials/Activity%202ModuleInformationQuiz%202(Assessment)Activity2.md)
+- [Activity 1: Module Information Quiz 1 (Module Aims+Scope)](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
+- [Activity 2: Module Information Quiz 2 (Assessment Activity](/csweek1moduleintroduction/materials/Activity%202ModuleInformationQuiz%202(Assessment)Activity2.md)
 - Activity 3: Module Information Quiz 3 (Resources) Activity 3
 
 ## INDEPENDENT STUDY TASKS – Week 1
