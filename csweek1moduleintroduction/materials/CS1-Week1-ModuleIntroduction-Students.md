@@ -141,7 +141,7 @@ Choose only one of the following aspects of your ARUL student life for your refl
 - Standards of in-text citations and reference list
 - Use of mechanics (spelling, formatting, punctuation etc.)
 ---
-## Activity 2: Module info quiz 2 - Assessment
+## [Activity 2: Module info quiz 2 - Assessment](/csweek1moduleintroduction/materials/Activity%202ModuleInformationQuiz%202(Assessment)Activity2.md)
 ---
  **Key module resources**
 
