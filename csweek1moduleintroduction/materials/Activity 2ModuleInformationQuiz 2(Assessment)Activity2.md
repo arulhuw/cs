@@ -1,45 +1,29 @@
 # Activity 2: Module Information Quiz 2 (Assessment) Activity 2
 
 
-How many words should your final reflective writing have across all calculated elements?
+1. How many words should your final reflective writing have across all calculated elements?
+    - a. 2,000
+    - b. 150
+    - c. 1,00✔
 
 
-Select one:
-a. 2,000
-b. 150
-c. 1,000
-d. 1,500 
+2. How many of the 'Skills for Higher Education' learning outcomes are related to this assessment?
+    - a. 1
+    - b. 4 ✔
+    - c. 3 
+    - d. 5
+3. When is the deadline for the submission of your assignment – the reflective paper?
+    - a. 2pm on 27 March
+    - b. 2pm on 29 July
+    - c. To be confirmed (Not available in VLE) 
+    - d. 5pm on 10 April
 
 
-How many of the 'Skills for Higher Education' learning outcomes are related to this assessment?
-
-Select one:
-a. 1
-b. 4
-c. 3 
-d. 5
-Your answer is incorrect.
-The correct answer is: 4
-
-
-When is the deadline for the submission of your assignment – the reflective paper?
-
-
-Select one:
-a. 2pm on 27 March
-b. 2pm on 29 July
-c. To be confirmed (Not available in VLE) 
-d. 5pm on 10 April
-
-
-What does the assignment task ask you to do?
-
-
-Select one:
-a. Describe your course
-b. Discuss your future plans
-c. Criticise the university
-d. Reflect and write 
+4. What does the assignment task ask you to do?
+    - a. Describe your course
+    - b. Discuss your future plans
+    - c. Criticise the university
+    - d. Reflect and write 
 
 
 

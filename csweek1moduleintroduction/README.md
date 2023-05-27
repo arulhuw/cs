@@ -7,7 +7,7 @@
   -  [power point ](materials/CS1-Week1-ModuleIntroduction-Lecturers.pptx)
 
 ## ACTIVITIES
-- [Activity 1: Module Information Quiz 1 (Module Aims+Scope) Activity 1](/csweek1moduleintroduction/materials/CS1-Week1-ModuleIntroduction-Students.md#activity-1-module-info-quiz-1---introduction)
+- [Activity 1: Module Information Quiz 1 (Module Aims+Scope) Activity 1](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
 - Activity 2: Module Information Quiz 2 (Assessment) Activity 2
 - Activity 3: Module Information Quiz 3 (Resources) Activity 3
 
