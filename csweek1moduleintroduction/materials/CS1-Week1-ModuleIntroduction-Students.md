@@ -1,4 +1,28 @@
 # Week 1: Module Introduction
+- [Week 1: Module Introduction](#week-1-module-introduction)
+  - [Session objectives: Week 1](#session-objectives-week-1)
+  - [CS1 module aims](#cs1-module-aims)
+  - [How this module fits into your studies](#how-this-module-fits-into-your-studies)
+  - [How this module fits into Level 3](#how-this-module-fits-into-level-3)
+  - [How this module fits into Level 3](#how-this-module-fits-into-level-3-1)
+  - [Employability and Reflective writing skills - 1](#employability-and-reflective-writing-skills---1)
+  - [Employability and Reflective writing skills - 2](#employability-and-reflective-writing-skills---2)
+  - [Activity 1: Module info quiz 1 - Introduction](#activity-1-module-info-quiz-1---introduction)
+  - [Assessment](#assessment)
+    - [Task summary:](#task-summary)
+  - [Assignment structure](#assignment-structure)
+  - [|10. References|N/A|](#10-referencesna)
+  - [Marking criteria - 1](#marking-criteria---1)
+  - [Marking criteria - 2](#marking-criteria---2)
+  - [Marking criteria - 3](#marking-criteria---3)
+  - [Marking criteria - 4](#marking-criteria---4)
+  - [Activity 2: Module info quiz 2 - Assessment](#activity-2-module-info-quiz-2---assessment)
+  - [Activity 3: Module info quiz 3 - Resources](#activity-3-module-info-quiz-3---resources)
+  - [Activity 4: Think-Pair-Share](#activity-4-think-pair-share)
+  - [Game time - Kahoot](#game-time---kahoot)
+  - [In-class writing practice](#in-class-writing-practice)
+  - [Independent study](#independent-study)
+
 ## Session objectives: Week 1
 >By the end of this session, you will have:
 1. Discussed the themes, learning objectives and resources associated with the Communication Skills 1 (CS1) module.
