@@ -3,7 +3,7 @@
 - [Reflection for life](#reflection-for-life)
 - [starting out on reflection](#starting-out-on-reflection)
 - [notes](#notes)
-- [| f(a time investment)               |  f(A time investment)               |](#-fa-time-investment-----------------fa-time-investment---------------)
+- [| f(a time investment)               |||  f(A time investment)               |](#-fa-time-investment-----------------fa-time-investment---------------)
 
 ##  About reflection
 Reflection starts with thinking about something. As Jenny Moon (2005 p. 1) observes, we don’t reflect on ‘simple’ things like the route to the corner shop, but on ***things for which there is not an obvious or immediate solution’.**
@@ -68,14 +68,14 @@ i(split into <br>smaller groups with <br>specific roles.)
 ---
 ## notes
 
-
-| reflective writing is...           |  Reflective writing is...           |       
-|------------------------------------| ------------------------------------|
-| flowchart  lr                      |  flowchart  LR                      |
-| a(written in the first person)     |  a(Written in the first person)     |
-| b(analytical)                      |  b(Analytical)                      |
-| c(free flowing)                    |  c(Free flowing)                    |
-| d(subjective)                      |  d(Subjective)                      |
-| e(a tool to challenge assumptions) |  e(A tool to challenge assumptions) |
-| f(a time investment)               |  f(A time investment)               |
+---
+| reflective writing is...           |||  Reflective writing is...           |       
+|------------------------------------|-|-| ------------------------------------|
+| flowchart  lr                      |||  flowchart  LR                      |
+| a(written in the first person)     |||  a(Written in the first person)     |
+| b(analytical)                      |||  b(Analytical)                      |
+| c(free flowing)                    |||  c(Free flowing)                    |
+| d(subjective)                      |||  d(Subjective)                      |
+| e(a tool to challenge assumptions) |||  e(A tool to challenge assumptions) |
+| f(a time investment)               |||  f(A time investment)               |
 ---
