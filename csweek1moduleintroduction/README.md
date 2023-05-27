@@ -15,7 +15,7 @@
  - ### TASK 1 Reading:
 - **READ: ***Reflective Writing** Section 1 pp 2-6 About reflection 
   - [pdf](materials/pp.2-6ofReflectiveWritingPDF.pdf) 
-  - [Markdown](materials/pp.2-6ofReflectiveWritingPDF.md) 
+  - [Markdown](materials/pp.2-6ofReflectiveWriting.md) 
 
 
 - ### TASK 2: week 1: 
@@ -32,3 +32,11 @@
 - ## Task 4
 
 >- ###  [Reflective Writing](https://youtu.be/QoI67VeE3ds)
+
+
+### Notes on HW
+
+1. READ: You may not have access to the book yet, so the reading pages have been uploaded on VLE as PDF
+2. Take the quiz after reading the above pages, the answers are in the reading.
+3. WRITE: You do not have to send your writing to your lecturer; you may write this in paper or on your laptop; bring it to class next CS1 lesson.
+4. WATCH: Videos in ‘Week 1 Preparation Resources’
