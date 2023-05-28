@@ -123,7 +123,7 @@ Here the writer gives more details on the topic; they flow from general to more 
 ## Activity 4: Thesis statement + outline
 
 
->### Go to Activity 4 in Week 2 worksheet. 
+>### Go to Activity 4 in [Week 2 worksheet](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md#activity-4--thesis-statementoutline) 
 - Complete the Introductory paragraph by adding a thesis statement and an outline, 
 (Note: In the possible answer, theoutline has been embedded within the thesis statement)
 
