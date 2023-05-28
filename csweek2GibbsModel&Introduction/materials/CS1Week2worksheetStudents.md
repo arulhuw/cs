@@ -1,4 +1,13 @@
 # CS1 Week 2 worksheet 
+
+- [CS1 Week 2 worksheet](#cs1-week-2-worksheet)
+  - [Activity 1 – Definitions of reflective practice (or reflection)](#activity-1--definitions-of-reflective-practice-or-reflection)
+  - [Activity 2 – Gibbs’ reflective model](#activity-2--gibbs-reflective-model)
+  - [Activity 3 – Opening sentence and background details](#activity-3--opening-sentence-and-background-details)
+  - [Activity 4 – Thesis statement/outline](#activity-4--thesis-statementoutline)
+
+
+
 ## Activity 1 – Definitions of reflective practice (or reflection)
 > ### Look at the definitions of reflection below (taken from page 9 of your book) and discuss the following questions in groups of 3 or 4.
 1. Do the different definitions mean the same? 
@@ -15,12 +24,12 @@
 4.	Have you seen any other reflective models? How are they different from this one?
 5.	As you see, this model was introduced in 1988? Do you think it is still relevant and applicable? Why?
 
-- **Action plan** if it arose again what will you do?
-- **Description** What happened?
-- **Feelings** What were you thinking and feeling ?
-- **Evaluation** What was good and bad about the experience ?
-- **Analysis** What sense can you make of the situation ?
-- **Conclusion** What else could you have done
+    1. **Action plan** if it arose again what will you do?
+    2. **Description** What happened?
+    3. **Feelings** What were you thinking and feeling ?
+    4. **Evaluation** What was good and bad about the experience ?
+    5. **Analysis** What sense can you make of the situation ?
+    6. **Conclusion** What else could you have done
 
 
 
@@ -29,13 +38,16 @@
 Opening sentence: **Achievements help us value ourselves and what we do**. 
 Activity: Continue by adding background details. Try to move from general to specific. Write 2 or 3 sentences (5 minutes)
 
-**Achievements help us value ourselves and what we do.**
+>**Achievements help us value ourselves and what we do.**
 
 
 ## Activity 4 – Thesis statement/outline
 > ### Complete the introductory paragraph in the box below by adding a thesis statement and an outline.
----
-Achievements help us value ourselves and what we do. However, value of achievements varies from person to person. Something that a person considers a great achievement may not be great at all for another person. Similarly, exploring the psychology of greatness, I also feel, as noted by Simonton (1994), the degree of greatness of an achievement may diminish or expand as years pass by. Despite the financial hardships and health difficulties I faced last year, I managed to attain some achievements which include getting a new job, visiting India, and enrolling myself for a degree, however, my greatest achievement last year was indeed meeting my new friend, Jemma… 
+- Achievements help us value ourselves and what we do. 
+- However, value of achievements varies from person to person. 
+- Something that a person considers a great achievement may not be great at all for another person.
+-  Similarly, exploring the psychology of greatness, I also feel, as noted by Simonton (1994), the degree of greatness of an achievement may diminish or expand as years pass by.
+-   Despite the financial hardships and health difficulties I faced last year, I managed to attain some achievements which include getting a new job, visiting India, and enrolling myself for a degree, however, my greatest achievement last year was indeed meeting my new friend, Jemma… 
 ---
 
 

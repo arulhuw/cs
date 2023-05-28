@@ -47,7 +47,7 @@ Is reflective practice a useful skill? How/Why?
 
 ## Analysing the reflective model
 
-> ### Look at the reflective model by Gibbs (1988) and do Activity 2 in the worksheet in small groups:
+> ### Look at the reflective model by Gibbs (1988) and do [Activity 2 in the worksheet](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md#)
 
 1. How many elements are there in this model? Which is the starting point in the model?
 2. What is involved in each element?
