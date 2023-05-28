@@ -119,6 +119,7 @@ Here the writer gives more details on the topic; they flow from general to more 
 |----------------|-------------------|	
 |Outline         |  Thesis statement |	
 
+---
 ## Activity 4: Thesis statement + outline
 
 
