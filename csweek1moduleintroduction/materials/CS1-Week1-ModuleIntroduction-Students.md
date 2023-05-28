@@ -16,7 +16,8 @@
   - [Marking criteria - 2](#marking-criteria---2)
   - [Marking criteria - 3](#marking-criteria---3)
   - [Marking criteria - 4](#marking-criteria---4)
-  - [Activity 2: Module info quiz 2 - Assessment](#activity-2-module-info-quiz-2---assessment)
+  - [Activity 2:](#activity-2)
+    - [Module info quiz 2 - Assessment](#module-info-quiz-2---assessment)
   - [Activity 3: Module info quiz 3 - Resources](#activity-3-module-info-quiz-3---resources)
   - [Activity 4: Think-Pair-Share](#activity-4-think-pair-share)
   - [Game time - Kahoot](#game-time---kahoot)
@@ -141,7 +142,9 @@ Choose only one of the following aspects of your ARUL student life for your refl
 - Standards of in-text citations and reference list
 - Use of mechanics (spelling, formatting, punctuation etc.)
 ---
-## [Activity 2: Module info quiz 2 - Assessment](/csweek1moduleintroduction/materials/Activity%202ModuleInformationQuiz%202(Assessment)Activity2.md)
+## Activity 2: 
+### [Module info quiz 2 - Assessment](/csweek1moduleintroduction/materials/Activity2ModuleInformationQuiz2(Assessment)Activity2.md)
+
 ---
  **Key module resources**
 
