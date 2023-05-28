@@ -1,9 +1,33 @@
 # Communication Skills Part 1
 ## Week 2: Reflective practice, Gibbs’ model, and Introduction
+- [Communication Skills Part 1](#communication-skills-part-1)
+  - [Week 2: Reflective practice, Gibbs’ model, and Introduction](#week-2-reflective-practice-gibbs-model-and-introduction)
+  - [Learning outcomes: Week 2](#learning-outcomes-week-2)
+  - [Homework 1 - Reading](#homework-1---reading)
+  - [What is reflective practice?](#what-is-reflective-practice)
+    - [Vocabulary – ‘reflection’](#vocabulary--reflection)
+  - [Discussion](#discussion)
+  - [Definitions of reflection](#definitions-of-reflection)
+  - [Gibbs’ reflective model](#gibbs-reflective-model)
+  - [Analysing the reflective model](#analysing-the-reflective-model)
+  - [Introductory section](#introductory-section)
+    - [Introduction - Activity](#introduction---activity)
+  - [Introductory paragraph](#introductory-paragraph)
+  - [Opening sentence](#opening-sentence)
+  - [Background details](#background-details)
+    - [Here the writer gives more details on the topic](#here-the-writer-gives-more-details-on-the-topic)
+  - [Thesis statement and outline](#thesis-statement-and-outline)
+  - [Example thesis statement](#example-thesis-statement)
+  - [Activity 4: Thesis statement + outline](#activity-4-thesis-statement--outline)
+  - [(Note: In the possible answer, theoutline has been embedded within the thesis statement)](#note-in-the-possible-answer-theoutline-has-been-embedded-within-the-thesis-statement)
+  - [Homework – Writing (from week 1)](#homework--writing-from-week-1)
+  - [Assignment topics](#assignment-topics)
+  - [A special note on your writing HW](#a-special-note-on-your-writing-hw)
+  - [Independent study](#independent-study)
+  - [References](#references)
 
 ## Learning outcomes: Week 2
 >### By the end of this session, you will have:
-
 1. Discussed reflective practice and Gibbs’ reflective model.
 2. Looked at the Introduction part of the RW assignment.
 3. Discussed different elements required in an Introduction.
@@ -89,12 +113,19 @@ Is reflective practice a useful skill? How/Why?
 
 ## Background details
 
-Here the writer gives more details on the topic; they flow from general to more specific.
- For example, Topic: Reflective writing on how you used technology in your lessons/lectures
+### Here the writer gives more details on the topic
+- they flow from general to more specific.
+- For example, Topic: Reflective writing on how you used technology in your lessons/lectures
+- Technology plays a very big role in the life of a successful student. 
+- It is highly unlikely that technology will not offer a solution to a university student’s problem, 
+- whether it is related to the subject they are studying,
+- working on assignments, student union, researching, reading materials or academic support.
+- Since I started my degree course at ARUL, 
+- I have also relied on technology for various matters, 
+- and I feel very positive about the benefit of using technology in studies. 
 
->Technology plays a very big role in the life of a successful student. It is highly unlikely that technology will not offer a solution to a university student’s problem, whether it is related to the subject they are studying, working on assignments, student union, researching, reading materials or academic support. Since I started my degree course at ARUL, I have also relied on technology for various matters, and I feel very positive about the benefit of using technology in studies. 
 
-#### **As you see above, the writer has moved from general in the beginning to more specific towards the end.**
+> #### **As you see above, the writer has moved from general in the beginning to more specific towards the end.**
 ---
 ## Thesis statement and outline
 - A thesis statement **states the main idea** of the whole writing.
