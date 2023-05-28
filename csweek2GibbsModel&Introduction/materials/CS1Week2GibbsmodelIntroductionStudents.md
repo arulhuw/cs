@@ -150,11 +150,18 @@ Here the writer gives more details on the topic; they flow from general to more 
 
 
 ## Independent study
-
-
-- Go to the ‘Independent study’ section under Week 2 tile.
+>###  Go to the ‘Independent study’ section under Week 2 tile.
   - READ: Reflective Writing pp. 7-13 [Getting started on reflective writing](/csweek2GibbsModel%26Introduction/materials/CS1Week2Readingpp713PDF.pdf)
-ANSWER: Homework Quiz 2 on VLE (to be done after reading pp. 7-13)
-WRITE: Week 2 Independent Study Writing Activity
-WATCH: Videos in ‘Week 2 Preparation Resources’
+    - [Notes taken for Reflective Writing](/csweek2GibbsModel%26Introduction/materials/CS1Week2Readingpp713PDF.md)
+- ANSWER: Homework Quiz 2 on VLE (to be done after reading pp. 7-13)
+- WRITE: Week 2 Independent Study Writing Activity
+- WATCH: Videos in ‘Week 2 Preparation Resources’
 
+## References
+
+- https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle
+- Gibbs, G (1988). Learning by doing: a guide to teaching and learning methods. Oxford: Further Education Unit, Oxford Polytechnic
+- https://www.mmu.ac.uk/media/mmuacuk/content/documents/careers/Applying-the-Gibbs-Model-2018.pdf
+- Open University, Skills for OU Study. Be aware of your habits. [online]. Available at: www2.open.ac.uk/students/skillsforstudy/ be-aware-of-your-habits.php [Accessed 5 July 2022]
+- [Accessed 5 July 2012] Plymouth University, Learning Development. (2010) Reflection [online]. Available at: www.learningdevelopment.plymouth.ac.uk/ LDstudyguides/pdf/11Reflection.pdf [Accessed 5 July 2022]
+- Williams, K, Woolliams, M and Spiro, J (2020). Reflective Writing. Basingstoke: Palgrave MacMillan
