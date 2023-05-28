@@ -1,10 +1,10 @@
 # Week 1 Module Introduction
 ## LECTURE
 - CS1 - Week 1 - Module Introduction Students 
-    - [ power point ](materials/CS1-Week1-Module-Students.pptx) 
-    - [markdown](materials/CS1-Week1-ModuleIntroduction-Students.md)
+    - [Lecture slides ](materials/CS1-Week1-Module-Students.pptx) 
+    - [Lecture notes](materials/CS1-Week1-ModuleIntroduction-Students.md)
 - CS1 - Week 1 - Module Introduction Lecturers
-  -  [power point ](materials/CS1-Week1-ModuleIntroduction-Lecturers.pptx)
+  -  [Lecture slides ](materials/CS1-Week1-ModuleIntroduction-Lecturers.pptx)
 ## ACTIVITIES
 - [Activity 1: Module Information Quiz 1 (Module Aims+Scope)](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
 - [Activity 2: Module Information Quiz 2 (Assessment Activity](/csweek1moduleintroduction/materials/Activity2ModuleInformationQuiz2(Assessment)Activity2.md)
