@@ -15,4 +15,5 @@ pp. 7-13 Getting started on [CS1 - Week 2 - Reading pp. 7-13 PDF Reflective writ
 ---
 ### TASK 3: CS1 - Week 2 - [Independent Writing Activity](/csweek2GibbsModel%26Introduction/materials/IndependentstudyWeek2writingactivity.md)
 ---
-### TASK 4.
+### TASK 4. [Gibbs' Reflective Cycle Explained](https://youtu.be/-gbczr0lRf4)
+
