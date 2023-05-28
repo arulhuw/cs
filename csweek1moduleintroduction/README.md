@@ -6,8 +6,8 @@
 - CS1 - Week 1 - Module Introduction Lecturers
   -  [Lecture slides ](materials/CS1-Week1-ModuleIntroduction-Lecturers.pptx)
 ## ACTIVITIES
-- [Activity 1: Module Information Quiz 1 (Module Aims+Scope)](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
-- [Activity 2: Module Information Quiz 2 (Assessment Activity](/csweek1moduleintroduction/materials/Activity2ModuleInformationQuiz2(Assessment)Activity2.md)
+- [Activity 1: Module Information Quiz 1 Module Aims+Scope](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
+- [Activity 2: Module Information Quiz 2 Assessment Activity](/csweek1moduleintroduction/materials/Activity2ModuleInformationQuiz2(Assessment)Activity2.md)
 - [Activity 3: Module Information Quiz 3 (Resources) Activity 3](/csweek1moduleintroduction/materials/Activity3ModuleInformationQuiz3(Resources)Activity3.md)
 
 ## INDEPENDENT STUDY TASKS – Week 1
@@ -22,9 +22,9 @@
 
 - ### TASK 3
 - ### Independent study Week 1 Writing activity TASK 3. Independent study Week 1 Writing activity
-  - [Activity-sheet (docx)](/csweek2GibbsModel%26Introduction/Independentstudy-Week2writingactivity.docx)
+  - [Activity-sheet (docx)](/csweek1moduleintroduction/materials/IndependentstudyWeek1Writingactivity.docx)
 
-  - [Activity note](/csweek2GibbsModel%26Introduction/Independentstudy-Week2writingactivity.md)
+  - [Activity note](/csweek1moduleintroduction/materials/IndependentstudyWeek1Writingactivity.md)
 - ## Task 4
 
 >- #####  [A short video explaining how to write reflectively.  What to write about, what to avoid writing about and the benefits of reflective writing](https://youtu.be/QoI67VeE3ds)
