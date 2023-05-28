@@ -44,7 +44,7 @@ Is reflective practice a useful skill? How/Why?
 - **Evaluation** What was good and bad about the experience ?
 - **Analysis** What sense can you make of the situation ?
 - **Conclusion** What else could you have done
-
+---
 ## Analysing the reflective model
 
 > ### Look at the reflective model by Gibbs (1988) and do [Activity 2 in the worksheet](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md#activity-2--gibbs-reflective-model)
@@ -54,7 +54,7 @@ Is reflective practice a useful skill? How/Why?
 3. Why is each element important in this reflective cycle?
 4. Have you seen any other reflective models? How are they different from this one?
 5. As you see, this model was introduced in 1988? Do you think it is still relevant and applicable? Why?
-
+---
 ## Introductory section
 
 ### Introduction - Activity    
@@ -85,7 +85,7 @@ Is reflective practice a useful skill? How/Why?
 
 - Can you come up with an opening sentence for this topic?
   - Reflective writing on your greatest achievement last year
-**>Ans: Achievements help us value ourselves and what we do.**
+>**Ans: Achievements help us value ourselves and what we do.**
 
 ## Background details
 
@@ -95,5 +95,35 @@ Here the writer gives more details on the topic; they flow from general to more 
 >Technology plays a very big role in the life of a successful student. It is highly unlikely that technology will not offer a solution to a university student’s problem, whether it is related to the subject they are studying, working on assignments, student union, researching, reading materials or academic support. Since I started my degree course at ARUL, I have also relied on technology for various matters, and I feel very positive about the benefit of using technology in studies. 
 
 #### **As you see above, the writer has moved from general in the beginning to more specific towards the end.**
+---
+## Thesis statement and outline
+- A thesis statement **states the main idea** of the whole writing.
+- A thesis statement in an essay is like the topic sentence of a paragraph.
+- A thesis statement also uses appropriate **signposting language** such as, 
+  - The main ideas discussed in this work are…
+  - This work will describe, evaluate and analyse…
+- The thesis statement may also indicate the **pattern of organisation** of the essay. 
+- This outline can be written as a separate sentence, or embedded within the thesis statement.
+- For example, **This essay will first look at the literature relevant to the strategy, then present the problems in implementing this strategy and finally suggest possible solutions to them**. 
+---
+## Example thesis statement
+> #### Topic: Reflective writing on how you used technology in your lectures
+- Technology plays a very big role in the life of a successful student.
+-  It is highly unlikely that technology will not offer a solution to a university student’s problem, whether it is related to the subject they are studying, working on assignments,student union, researching, reading materials or academic support.Since I started my degree course at ARUL, I have also relied on technology for various matters, and I feel very positive about the benefit of using technology in my studies. 
+- This work presents a reflective commentary on the role of technology in my studies. 
+- After describing the topic and commenting on my feelings and thoughts on it, I will evaluate and analyse the experience I have had so far in relation to the topic.
+- In the latter part, I will present my conclusions of my reflections and possible action plan for future improvement. 
+---
+
+|Opening sentence| Background details|
+|----------------|-------------------|	
+|Outline         |  Thesis statement |	
+
+## Activity 4: Thesis statement + outline
+
+
+>### Go to Activity 4 in Week 2 worksheet. 
+- Complete the Introductory paragraph by adding a thesis statement and an outline, 
+(Note: In the possible answer, theoutline has been embedded within the thesis statement)
 
 
