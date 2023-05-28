@@ -7,35 +7,28 @@
 1. Discussed reflective practice and Gibbs’ reflective model.
 2. Looked at the Introduction part of the RW assignment.
 3. Discussed different elements required in an Introduction.
-
+---
 ## Homework 1 - Reading
-
->### For homework, you were asked to read pages 2-6 in your coursebook Reflective Writing. Discuss the following in groups.
-
+>### For homework, you were asked to read pages 2-6 in your coursebook Reflective Writing. 
 1. What are the five adjectives that can be associated with ‘being reflective?’ What do they mean?
 2. How did their reflective practice help the MA students?
 3. Why do employers and professions encourage people to become reflective practitioners?
-
-
+---
 ## What is reflective practice?
-
 ### Vocabulary – ‘reflection’ 
-
 >### Mentimeter activity.
 - Listen to the lecturer’s instructions.
 >### Students write five words each relating to ‘reflection.’
-
 ## Discussion 
-
 1. What do you mean by reflection of an experience or a situation/event?
 Is reflective practice a useful skill? How/Why?
 2. Have you ever had to reflect on things at work or college? Did you ever have to produce a reflective writing  as part of any assessment? How did it go?
 3. What do you think should be involved in reflective practice/writing?
-
+---
 ## Definitions of reflection
-
 >### Open the document [‘Week 2 worksheet’](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md) and do Activity 1.
--   Look at the definitions of reflection (taken from page 9 of your reading book). Then discuss the following questions in groups.
+- Look at the definitions of reflection 
+  - taken [from page 9 of your reading book](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md).
 1. Do the different definitions mean the same? 
 2. Can reflection mean different things in different subjects?  Why?
 3. Which definition would you prefer to use, generally? Why? 
@@ -60,5 +53,34 @@ Is reflective practice a useful skill? How/Why?
 4. Have you seen any other reflective models? How are they different from this one?
 5. As you see, this model was introduced in 1988? Do you think it is still relevant and applicable? Why?
 
+## Introductory section
 
-    
+### Introduction - Activity    
+
+
+1. Why is an introductory section important in a piece of writing? How does it help the readers?
+2. What do you think should go in an introduction? What is the purpose of each sentence/part in an introduction?
+3. What % of the whole work should an introduction be? 50%?
+4. What is a thesis statement? Why / How does it help the readers? Where do you usually write a thesis statement in a piece of writing?
+5. Does an introduction need an outline? Why (not)?
+
+## Introductory paragraph
+
+> ### So, let us sum up that:
+> ### an introductory paragraph contains:
+1. Opening sentence
+2. Background details
+3. Thesis statement
+4. Outline
+
+## Opening sentence
+
+>### The first sentence of the introductory paragraph introduces the topic/theme to the readers. It helps readers know what the topic is.
+
+**For example**
+-   Topic: Reflective writing on how you used technology in your lessons/lectures
+-   Opening/introducing the topic: Technology plays a very big role in the life of a successful student.
+
+- Can you come up with an opening sentence for this topic?
+  - Reflective writing on your greatest achievement last year
+**>Ans: Achievements help us value ourselves and what we do.**
