@@ -126,5 +126,35 @@ Here the writer gives more details on the topic; they flow from general to more 
 >### Go to Activity 4 in [Week 2 worksheet](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md#activity-4--thesis-statementoutline) 
 - Complete the Introductory paragraph by adding a thesis statement and an outline, 
 (Note: In the possible answer, theoutline has been embedded within the thesis statement)
+---
 
+## Homework – Writing (from week 1)
+
+>### Your writing [homework from week 1](/csweek1moduleintroduction/materials/IndependentstudyWeek1Writingactivity.md) was to write a short reflection on an event / situation / experience you had (which you shared with your friends in groups last week). 
+---
+## Assignment topics
+>### Here are the three topics for your CS1 assignment; you will write a reflective paper on ONE of the topics.
+
+1. Materials and activities used in your lessons/lectures
+2. ARUL campus facilities and amenities
+3. Involvement and participation in your lessons/lectures
+
+>### Your writing homework for this week is to write the Introduction to your reflective paper. 
+
+## A special note on your writing HW
+
+> #### Each week from weeks 2 – 8, you will get writing HWs which are directly linked to your assignment, so writing HW is very important.
+- #### If you decide to write your final reflective assignment on the topic you have chosen in week 1 or 2, you may combine all your writing HWs together which may make your final submission. Of course, you may need to add/delete and amend aspects in your work before submitting it.
+- #### But if you want to write your final paper on a different topic, you are free to do so too, but you will need to write it from scratch – it is entirely up to you!
+---
+
+
+## Independent study
+
+
+- Go to the ‘Independent study’ section under Week 2 tile.
+  - READ: Reflective Writing pp. 7-13 [Getting started on reflective writing](/csweek2GibbsModel%26Introduction/materials/CS1Week2Readingpp713PDF.pdf)
+ANSWER: Homework Quiz 2 on VLE (to be done after reading pp. 7-13)
+WRITE: Week 2 Independent Study Writing Activity
+WATCH: Videos in ‘Week 2 Preparation Resources’
 
