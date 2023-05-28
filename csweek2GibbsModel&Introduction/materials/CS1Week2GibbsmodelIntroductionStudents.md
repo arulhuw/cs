@@ -50,6 +50,15 @@ Is reflective practice a useful skill? How/Why?
 - **Analysis** What sense can you make of the situation ?
 - **Conclusion** What else could you have done
 
+## Analysing the reflective model
+
+> ### Look at the reflective model by Gibbs (1988) and do Activity 2 in the worksheet in small groups:
+
+1. How many elements are there in this model? Which is the starting point in the model?
+2. What is involved in each element?
+3. Why is each element important in this reflective cycle?
+4. Have you seen any other reflective models? How are they different from this one?
+5. As you see, this model was introduced in 1988? Do you think it is still relevant and applicable? Why?
 
 
     
