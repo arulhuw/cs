@@ -10,6 +10,8 @@
 ---
 ## Homework 1 - Reading
 >### For homework, you were asked to read pages 2-6 in your coursebook Reflective Writing. 
+- Reflective Writing [pdf](/csweek1moduleintroduction/materials/pp.2-6ofReflectiveWritingPDF.pdf)
+- Notes for Reflective Writing[notes](/csweek1moduleintroduction/materials/pp.2-6ofReflectiveWriting.md) 
 1. What are the five adjectives that can be associated with ‘being reflective?’ What do they mean?
 2. How did their reflective practice help the MA students?
 3. Why do employers and professions encourage people to become reflective practitioners?
@@ -84,3 +86,14 @@ Is reflective practice a useful skill? How/Why?
 - Can you come up with an opening sentence for this topic?
   - Reflective writing on your greatest achievement last year
 **>Ans: Achievements help us value ourselves and what we do.**
+
+## Background details
+
+Here the writer gives more details on the topic; they flow from general to more specific.
+ For example, Topic: Reflective writing on how you used technology in your lessons/lectures
+
+>Technology plays a very big role in the life of a successful student. It is highly unlikely that technology will not offer a solution to a university student’s problem, whether it is related to the subject they are studying, working on assignments, student union, researching, reading materials or academic support. Since I started my degree course at ARUL, I have also relied on technology for various matters, and I feel very positive about the benefit of using technology in studies. 
+
+#### **As you see above, the writer has moved from general in the beginning to more specific towards the end.**
+
+
