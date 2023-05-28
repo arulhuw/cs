@@ -1,8 +1,8 @@
 # Week 1 Module Introduction
 ## LECTURE
 - CS1 - Week 1 - Module Introduction Students 
-    - [Lecture slides ](materials/CS1-Week1-Module-Students.pptx) 
-    - [Lecture notes](materials/CS1-Week1-ModuleIntroduction-Students.md)
+    - [Lecture slides ](/csweek1moduleintroduction/materials/CS1-Week1-ModuleIntroduction-Students.pptx) 
+    - [Lecture notes](/csweek1moduleintroduction/materials/CS1-Week1-ModuleIntroduction-Students.md)
 - CS1 - Week 1 - Module Introduction Lecturers
   -  [Lecture slides ](materials/CS1-Week1-ModuleIntroduction-Lecturers.pptx)
 ## ACTIVITIES
