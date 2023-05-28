@@ -87,7 +87,7 @@ D(Prof, Dev Skills <br/>1& 2 )
 - Problem-solving skills and    
 - Organisation skills
 ---
-## [Activity 1: Module info quiz 1 - Introduction](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
+## Activity 1: [Module info quiz 1 - Introduction](/csweek1moduleintroduction/materials/Activity1ModuleInformationQuiz1ModuleAimsScope.md)
 - Answer Activity 1 - Module Information Quiz 1 (Module aims + scope)
   - Activity 1: Module info quiz 1 - Introduction Answer Activity 1
 
@@ -181,6 +181,6 @@ Choose only one of the following aspects of your ARUL student life for your refl
 
 
 1. [READ: Read pp 2-6 on Kortext (PDF uploaded on VLE)](pp.2-6ofReflectiveWritingPDF.pdf)
-2. ANSWER: Homework Quiz – on VLE (to be taken after the reading above)
-3. [WRITE: Week 2 Independent Study Writing Activity](/csweek2GibbsModel%26Introduction/Independentstudy-Week2writingactivity.md)
+2. [ANSWER: Homework Quiz  to be taken after the reading above](/csweek1moduleintroduction/materials/homeworkquiz.md)
+3. [WRITE: Week 2 Independent Study Writing Activity](/csweek2GibbsModel%26Introduction/materials/IndependentstudyWeek2writingactivity.md)
 5. [WATCH: Videos in ‘Week 2 Preparation Resources](https://youtu.be/-gbczr0lRf4)
