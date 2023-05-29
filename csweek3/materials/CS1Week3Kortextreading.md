@@ -55,23 +55,34 @@ along the way:
 and imagination of the **audience**. 
   - **Connecting with audience**
 ---
-
+# 4
 ## Design, construct, test ... to destruction
-Technical courses at college or university – Engineering, Computing, Architecture – add a bit of spice to the process outlined above. At some point in the course, students are likely to
-◗ ◗
-◗ ◗
-◗ ◗
-◗ ◗
-work in design teams: Does better teamwork lead to better designs?
-sketch or model the design: How does it help the design process?
-build it within the constraints of materials, cost and time
-test it to destruction: How resilient is the structure? How well designed?
-Finally, looking back and reflecting on the whole process, what have you learnt?
-The brief: build a bridge
-Working in groups you are required to design and later construct a bridge as
-specified below ... Only the following materials may be used ... The following costs
-apply ...
-Thanks to Nick Spencer Chapman, Chartered Engineer,
-Lecturer, Construction Management
-Opposite are extracts from two student critical appraisals looking back on the whole
-process:
+>Technical courses at college or university – Engineering, Computing, Architecture – add a bit of spice to the process outlined above. At some point in the course, students are likely to
+
+
+
+- work in design teams: Does better teamwork lead to better designs?
+- sketch or model the design: How does it help the design process?
+- build it within the constraints of materials, cost and time
+- test it to destruction: How resilient is the structure? How well designed?
+
+
+>Finally, looking back and reflecting on the whole process, what have you learnt?
+
+|The brief: build a bridge<br> Working in groups you are required to design and later construct a  bridge as specified below ... Only the following materials may be used ... The following costs apply ... <br>Thanks to Nick Spencer Chapman, Chartered Engineer, Lecturer, Construction Management|
+|-------------------------|
+
+> Opposite are extracts from two student critical appraisals looking back on the whole process:
+---
+
+# 5
+
+## Time to reflect on ...
+|Keep it simple stupid (KISS) – one person talked like he knew what he was doing but it was far too complicated to build in time and our semi-finished bridge didn’t even support itself.|
+|-----------|
+- Group processes
+- Design process
+- Construction and
+- destruction
+|We should have organised the construction better. We rushed and half the team didn’t know what to do. The team next door even had cutting lists and everybody had jobs – they didn’t rush and finished early.|
+|-----------|
