@@ -134,4 +134,32 @@ https://www.cambridgeenglish.org/learning-english/activities-for-learners/b1w005
 4. Do you keep a reflective journal? If not, are you going to start writing one? What for / When / How often will you use it?
 5. What tips would you give to your friend with respect to keeping a reflective journal?
 
+## Reflective journal / diary
 
+
+> **In summary, a reflective journal is a very useful aid for reflective practice /writing. It:**
+
+- develops learner autonomy and self-direction.
+- helps you monitor and develop your study / study techniques.
+- helps you remember what you have considered worth noting down.
+- enhances commitment to yourself and your future plans.
+- integrates reflection and facilitates professional practice.
+- helps you evaluate, analyse and consider different perspectives of what you have observed or experienced.
+- gives you a means to build on your own and others’ work.
+- helps you learn from your experiences and develop yourself to be a better practitioner.
+
+
+
+## Homework  Writing  Week 2
+
+> **Your writing homework was to write the Introduction element of reflective writing on one of the following topics:**
+ 
+1. Materials and activities used in your lessons/lectures 
+2. ARUL campus facilities and amenities
+3. Involvement and participation in your lessons/lectures
+
+- introduced the topic?
+- Is there background information? 
+- Does it flow from general to specific?
+- Is the thesis statement clear?
+- Have they given an outline of the work?
