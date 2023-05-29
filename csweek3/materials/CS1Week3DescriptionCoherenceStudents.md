@@ -34,6 +34,7 @@
 - What did you hope or want to happen?
 
 ### Example description
+## Activity 1
 > Go to Activity 1 in [Week 3 worksheet.](/csweek3/materials/CS1Week3worksheetStudents.md##activity1)
 
 1. Does the paragraph effectively and fully describe the writer’s first day at work? 
@@ -51,4 +52,86 @@
 2. ARUL campus facilities and amenities
 3. Involvement and participation in your lessons/lectures
 (This is only your week 3! You will have more ARUL experiences and reflections in the coming weeks, and more to write about too).
+
+
+## Coherence and cohesion
+> ### This is the second of the four marking criteria to be used to assess your work. 
+> ### Read the following explanation, use the internet if necessary and then share your understanding of the terms Coherence and Cohesion with your friends.
+
+- Academic writing demands that your texts are both cohesive and coherent.
+- Cohesive writing is writing that ‘sticks together’; 
+- the language flows easily and smoothly
+- from one phrase to the next,
+- from one sentence to the next,
+- from one paragraph to the next. 
+- Coherent writing is also writing that ‘sticks together’; 
+- but here it is ideas that flow logically,
+- so your text can be easily interpreted by the reader,
+- so that it doesn’t require the reader 
+- to guess how you reached your conclusion.
+
+###  Why not cohesive/coherent?
+
+## Activities 2 & 3
+- Open Week 3 worksheet 
+  - [Activity-2 ](/csweek3/materials/CS1Week3worksheetStudents.md#activity-2)
+  - [Activity-3 ](/csweek3/materials/CS1Week3worksheetStudents.md#activity-3)
+
+### Cohesive devices
+
+> We have briefly seen some cohesive devices in activities 2 and 3, namely:
+
+1. **Linking words and phrases** (however, firstly, on the other hand, likewise, similarly, the next, then, finally etc,)
+2. **Pronouns and reference words **(he/his/him, she/her, you/yourself/yourselves, they/their/them, this/these, that/those, it/its, which etc.)
+3. **Repeating key words**
+4. **Conjunctions and conjunctive phrases**(and, or, but, because, for, that, although, despite that, due to etc.)
+
+### Cohesive paragraph
+
+## Activity 4 
+- Go to Activity 4 and complete it.
+  - [Worksheet](/csweek3/materials/CS1Week3worksheetStudents.md#activity-4)
+
+## Linking words  
+
+- ### Linking words  Examples
+    >##### Look at these linking words. Have you used them? Are any new to you?
+
+- **Reason** (because): Due to / Owing to / Stemming from the fact that, Since, As, Subsequently
+- **Addition** (and): Moreover, Furthermore, In addition, Also, Above all
+- **Result** (so): Therefore, Hence, Thus, Accordingly, As a result, Consequently
+- **Purpose** (so that): In order for, The aim of this essay is to
+- **Comparison** (like): Similarly, Likewise, In comparison
+- **Contrast** (but): However, Despite this, Nevertheless, In contrast, On the other hand, Yet, Although, While, By contrast
+
+
+## Activity 5 
+**Using linking words**
+>##### Based on the previous slide and information provided on the Research Skills modules, 
+
+-   complete the Cambridge Assessment English [‘Linking words’ quiz ](https://www.cambridgeenglish.org/learning-english/activities-for-learners/b1w005-linking-words)
+
+https://www.cambridgeenglish.org/learning-english/activities-for-learners/b1w005-linking-words
+
+
+
+## Reflective journal / diary
+
+
+
+- [Keeping a reflective journal](http://www.docs.hss.ed.ac.uk/iad/Learning_teaching/Academic_pastoral/Reflect/Keeping_reflective_journal.pdf)
+
+- [Tips for Writing Reflective Journal](https://www.toppr.com/bytes/reflective-journals-writing/)
+- [How to Write a Reflective Journal with Tips and Examples](https://journey.cloud/reflective-journal/)
+- [Reflective Journal: How to Write One and Prompts](https://www.intelligentchange.com/blogs/read/reflective-journal-how-to) 
+
+
+>> ##### Using some of the websites above find out:
+
+1. What is a reflective journal? What is its purpose and usage?
+2. What do you write in a reflective journal?
+3. How useful a reflective journal will be for your CS1 assignment?
+4. Do you keep a reflective journal? If not, are you going to start writing one? What for / When / How often will you use it?
+5. What tips would you give to your friend with respect to keeping a reflective journal?
+
 
