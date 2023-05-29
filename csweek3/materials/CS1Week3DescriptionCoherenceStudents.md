@@ -12,7 +12,9 @@
 
 ## Homework - Reading
 
->##### You were asked to read pp. 7-13 (Getting started on reflective writing) in your coursebook Reflective Writing. 
+>##### You were asked to read pp. 7-13 (Getting started on reflective writing) in your 
+  - [coursebook Reflective Writing.](/csweek2GibbsModelIntroduction/materials/CS1Week2Readingpp713PDF.pdf) 
+  - [note fore coursebook Reflective Writing](/csweek2GibbsModelIntroduction/materials/CS1Week2Readingpp713PDF.md)
 
 1. What are some of the **common confusions** students may have in relation to reflective writing?
 2. How might tutors or lecturers try to resolve these issues?
@@ -20,9 +22,7 @@
 
 
 ## Element 1. Description
-##### 1. Description
-
-
+## 1. Description
 >  In the description phase, you say what you are going to reflect on and what actually happened. You can address questions such as **what, where, when etc.** that are related to describing.
 ##### Helpful questions:
 - When and where did it happen?
@@ -50,4 +50,5 @@
 1. Materials and activities used in your lessons/lectures
 2. ARUL campus facilities and amenities
 3. Involvement and participation in your lessons/lectures
+(This is only your week 3! You will have more ARUL experiences and reflections in the coming weeks, and more to write about too).
 

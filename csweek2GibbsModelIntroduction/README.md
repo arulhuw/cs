@@ -8,7 +8,7 @@
 ## Independent Study Tasks  Week 2 
 ---
 ### TASK 1. READING:
-pp. 7-13 Getting started on [CS1 - Week 2 - Reading pp. 7-13 PDF Reflective writing](/csweek2GibbsModelIntroduction/materials/CS1Week2Readingpp713PDF.pdf) in your book **'Reflective Writing'**
+- ### Getting started on [Reflective writing pp. 7-13](/csweek2GibbsModelIntroduction/materials/CS1Week2Readingpp713PDF.pdf)
 - ###  notes for [Reading pp. 7-13](/csweek2GibbsModelIntroduction/materials/CS1Week2Readingpp713PDF.md)
 ---
  ### TASK 2. Homework Quiz (after reading pp. 7-13)
