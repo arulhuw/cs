@@ -1,7 +1,28 @@
 # Communication Skills part 1
-- ### Coherence and cohesion-1 
-- ### Reflective journal
 
+### Week 3: Coherence and cohesion-1 Reflective journal
+
+- [Communication Skills part 1](#communication-skills-part-1)
+    - [Week 3: Coherence and cohesion-1 Reflective journal](#week-3-coherence-and-cohesion-1-reflective-journal)
+  - [Learning outcomes](#learning-outcomes)
+  - [Homework - Reading](#homework---reading)
+  - [Element 1. Description](#element-1-description)
+  - [1. Description](#1-description)
+        - [Helpful questions:](#helpful-questions)
+    - [Example description](#example-description)
+  - [Activity 1](#activity-1)
+  - [Independent homework - Week 3 Writing](#independent-homework---week-3-writing)
+  - [Coherence and cohesion](#coherence-and-cohesion)
+    - [Why not cohesive/coherent?](#why-not-cohesivecoherent)
+  - [Activities 2 \& 3](#activities-2--3)
+    - [Cohesive devices](#cohesive-devices)
+    - [Cohesive paragraph](#cohesive-paragraph)
+  - [Activity 4](#activity-4)
+  - [Linking words](#linking-words)
+  - [Activity 5](#activity-5)
+  - [Reflective journal / diary](#reflective-journal--diary)
+  - [Reflective journal / diary](#reflective-journal--diary-1)
+  - [Homework  Writing  Week 2](#homework--writing--week-2)
 ## Learning outcomes
 
 >##### By the end of this session, you will have:
