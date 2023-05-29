@@ -71,7 +71,7 @@ Is reflective practice a useful skill? How/Why?
 ---
 ## Analysing the reflective model
 
-> ### Look at the reflective model by Gibbs (1988) and do [Activity 2 in the worksheet](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md#activity-2--gibbs-reflective-model)
+> ### Look at the reflective model by Gibbs (1988) and do [Activity 2 in the worksheet](/csweek2GibbsModelIntroduction/materials/CS1Week2worksheetStudents.md#activity-2--gibbs-reflective-model)
 
 1. How many elements are there in this model? Which is the starting point in the model?
 2. What is involved in each element?
@@ -154,7 +154,7 @@ Is reflective practice a useful skill? How/Why?
 ## Activity 4: Thesis statement + outline
 
 
->### Go to Activity 4 in [Week 2 worksheet](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md#activity-4--thesis-statementoutline) 
+>### Go to Activity 4 in [Week 2 worksheet](/csweek2GibbsModelIntroduction/materials/CS1Week2worksheetStudents.md#activity-4--thesis-statementoutline) 
 - Complete the Introductory paragraph by adding a thesis statement and an outline, 
 (Note: In the possible answer, theoutline has been embedded within the thesis statement)
 ---
@@ -182,8 +182,8 @@ Is reflective practice a useful skill? How/Why?
 
 ## Independent study
 >###  Go to the ‘Independent study’ section under Week 2 tile.
-  - READ: Reflective Writing pp. 7-13 [Getting started on reflective writing](/csweek2GibbsModel%26Introduction/materials/CS1Week2Readingpp713PDF.pdf)
-    - [Notes taken for Reflective Writing](/csweek2GibbsModel%26Introduction/materials/CS1Week2Readingpp713PDF.md)
+  - READ: Reflective Writing pp. 7-13 [Getting started on reflective writing](/csweek2GibbsModelIntroduction/materials/CS1Week2Readingpp713PDF.pdf)
+    - [Notes taken for Reflective Writing](/csweek2GibbsModelIntroduction/materials/CS1Week2Readingpp713PDF.md)
 - ANSWER: Homework Quiz 2 on VLE (to be done after reading pp. 7-13)
 - WRITE: Week 2 Independent Study Writing Activity
 - WATCH: Videos in ‘Week 2 Preparation Resources’

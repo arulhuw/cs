@@ -1,10 +1,10 @@
 # Week 2 Gibbs' Model & Introduction
 ## LECTURE
 - CS1 - Week 2 - Gibbs' Model + Introduction - Students 
-    - [Lecture slides](/csweek2GibbsModel%26Introduction/materials/CS1Week2GibbsmodelIntroductionStudents.pptx)
-    - [Lecture notes](/csweek2GibbsModel%26Introduction/materials/CS1Week2GibbsmodelIntroductionStudents.md)
+    - [Lecture slides](/csweek2GibbsModelIntroduction/materials/CS1Week2GibbsmodelIntroductionStudents.pptx)
+    - [Lecture notes](/csweek2GibbsModelIntroduction/materials/CS1Week2GibbsmodelIntroductionStudents.md)
 ## ACTIVITIES
-- CS1 - Week 2 - [Worksheet - Students](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md) 
+- CS1 - Week 2 - [Worksheet - Students](/csweek2GibbsModelIntroduction/materials/CS1Week2worksheetStudents.md) 
 ## Independent Study Tasks  Week 2 
 ---
 ### TASK 1. READING:
