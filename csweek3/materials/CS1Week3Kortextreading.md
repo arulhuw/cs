@@ -78,11 +78,134 @@ and imagination of the **audience**.
 # 5
 
 ## Time to reflect on ...
+
+
+
+
 |Keep it simple stupid (KISS) – one person talked like he knew what he was doing but it was far too complicated to build in time and our semi-finished bridge didn’t even support itself.|
 |-----------|
 - Group processes
 - Design process
 - Construction and
 - destruction
+
 |We should have organised the construction better. We rushed and half the team didn’t know what to do. The team next door even had cutting lists and everybody had jobs – they didn’t rush and finished early.|
 |-----------|
+
+
+# 6 
+
+## More students’ reflections show the range of their learning:
+
+- We should have drawn it to scale with load in position.
+- We wasted materials when we realised we'd cut it too short.
+- The group hadn’t realised that unless the towers are tied back at each end they add nothing. 
+- Often the bridges with the most material were the weakest! They hadn’t thought about ...
+
+- You could see why it was helpful to sketch to scale ... it made it look real.
+- Others in our ‘team’ just chatted and larked about.
+- Once the load began tipping sideways you could see it had become unstable.
+
+
+---
+
+# 7 
+
+## And finally ...
+> Take another look at the comments above. Decide which aspect or combination of
+aspects of the process each one illustrates:
+
+|Group processes |Design process |Construction/destruction|
+|----------------|---------------|------------------------|
+
+> You’ll see how much learning about bridge construction comes from reflection throughout the assignment.Learning journals in professional courses
+
+> Learning journals help to develop your practice as a professional by:
+- recording your own practice and actions
+- noticing what went well and what needs development
+- acknowledging issues, problems and areas that need attention
+- planning for future actions to help with areas of challenge.
+----
+# 8
+
+## Learning journals in education
+
+
+- I found the behaviour of the class really >>
+  - challenging.(**Record your actions and notice what has not gone well.)**
+- I realise I was not differentiating between kinds
+- of >>
+  - **difficult (Notice what needs development)**  behaviour: for example, one child is
+- frustrated because she is gifted and the class is too
+- slow; one child has attachment issues and can’t
+- settle among other children; one I know has been
+- bullied and daren’t speak up. I just got frustrated
+- that it wasn’t working and didn’t 
+  - **even(Acknowledge areas that need attention)** think about
+- strategies that would work for those different needs.
+- I definitely need to research these issues and what
+- best practice is for each of 
+  - them. **(Plan for future actions)**
+  *Suzette, BA Education student*
+
+## Learning journals in Health and Social Care
+> A Health/Social Care student will learn to:
+- participate in or observe an incident (such as the care of a client)
+- discuss what went well and not so well about it
+
+- analyse their thoughts about it, by linking to relevant theory/policy/science/guidance, and to the experience of others
+- reflect on how this links to their own experiences – how could this inform their future practice?
+- A junior nurse’s reflective diary entry
+
+# 9
+
+- Last week my mentor transferred a client into 
+  - her -----------------------
+    - Describing the incident
+- bed without using any equipment to assist her. 
+- The client was unable to 
+  - stand safely. 
+    - Observing
+- However my mentor said there was no hoist nearby and it would take too much time to go and find 
+  - one The incident continued. Unstated concern about poor practice
+   
+
+- Since then I have had my moving and handling training update. 
+- Under the Manual Handling Operations Regulations (Health and Safety Executive 2004), all staff have a duty to attend moving and handling training, and to make full 
+  - use 
+    - The incident continued. Unstated concern about poor practice
+- 
+- of any equipment available to them in their place of work to assist them in moving and
+handling patients or objects. 
+  - I am 
+    - sure Reflection on practices and implications
+- that using a hoist would have reduced the risk of injury to the patient as well as to the nurse who was moving her.
+
+
+- After my training, I feel more 
+- confident 
+  - Reflection on self and future practice
+
+- to challenge others’ practice, and I realise the importance of being assertive to ensure my own safety as well as the safety of clients and colleagues.
+- Reflection on self and future practice
+
+>Reference
+Health and Safety Executive (2004). Manual Handling
+Operations Regulations (3rd edn). London: The Stationery Office.
+---
+
+# 10
+
+## A medical student reflects
+
+
+- [The exercise] was to consider the approaches a
+- doctor might take with a person with a chronic
+- illness. To be honest, I didn’t want to do this, as
+- some things were too close to the bone. I’m glad I
+- did though as the scenario our group was given was
+- one I had never particularly considered, and I was
+- able to consider what [the person’s] particular needs
+- would be. I suppose it was a case of separating
+- personal and professional attitudes ...
+
