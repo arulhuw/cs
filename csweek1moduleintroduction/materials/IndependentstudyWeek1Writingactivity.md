@@ -8,12 +8,12 @@ Answer box:
 
 
 During my first week at ARU I had to contact the attendance team due to being marked absent.
-On the 22nd may I arrived at 9.30 am. before the lecture started. 
-Even though I clicked the in class Attendance before 10:30 am it was marked absent on my attendance.
 
-I was abel to use the form on the VLE to contact the, Attendance team They confirmed my enquiry by email. After a couple of days I received another email confirming the mistake has been corrected.
+On the 22nd may I arrived at 9.30 am before the lecture started and  used  the in class Attendance button before 10:30 am to confirm my presence.
 
-The user experience around navigating the website straight forward and simple. although the mobile version i.e android phones doesn't display(download) the up to date attendance sheet.
+I was abel to use the form on the VLE to contact the  Attendance team, They confirmed my enquiry by email. After a couple of days I received another email confirming the mistake has been corrected.
+
+The user experience around navigating the website straight straight forward and simple. Although the mobile version i.e  doesn't display(download) the up to date attendance sheet.
 
 
 
