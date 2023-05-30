@@ -75,9 +75,9 @@
 
 ## Discussion 
 1. What do you mean by reflection of an experience or a situation/event?
-Is reflective practice a useful skill? How/Why?
-1. Have you ever had to reflect on things at work or college? Did you ever have to produce a reflective writing  as part of any assessment? How did it go?
-2. What do you think should be involved in reflective practice/writing?
+2. Is reflective practice a useful skill? How/Why?
+3. Have you ever had to reflect on things at work or college? Did you ever have to produce a reflective writing  as part of any assessment? How did it go?
+4. What do you think should be involved in reflective practice/writing?
 ---
 ## Definitions of reflection
 >### Open the document [‘Week 2 worksheet’](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md) and do Activity 1.
