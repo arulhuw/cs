@@ -199,13 +199,18 @@ Operations Regulations (3rd edn). London: The Stationery Office.
 ## A medical student reflects
 
 
-- [The exercise] was to consider the approaches a
-- doctor might take with a person with a chronic
-- illness. To be honest, I didn’t want to do this, as
-- some things were too close to the bone. I’m glad I
-- did though as the scenario our group was given was
-- one I had never particularly considered, and I was
-- able to consider what [the person’s] particular needs
-- would be. I suppose it was a case of separating
-- personal and professional attitudes ...
+- [The exercise] was to consider the approaches a doctor might take with a 
+  - **person** 
+    - **Incident/activity**
+- with a chronic- illness. To be honest, I 
+  - **didn’t** 
+    - **Feelings/reflections**
+- want to do this, as some things were too close to the bone. I’m glad I
+- did though as the scenario our group was given was one I had never particularly 
+  - **considered**, 
+    - **New learning**
+- and I was able to consider what [the person’s] particular needs would be. I suppose it was a case of separating personal and 
+  - **professional**
+    -  **New learning in professional context – generalising to make the link between this experience and prior understanding of the issue (personal and professional attitudes)**
+-  attitudes ...
 
