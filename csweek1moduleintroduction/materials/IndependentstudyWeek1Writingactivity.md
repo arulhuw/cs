@@ -12,7 +12,10 @@ During my second week at ARU I had to contact the attendance team due to being m
 On the 22nd may I arrived at 9.30 am before the lecture started. 
 Using the in class Attendance button on the VLE I proceeded to  confirm my presence. 
 
-I kept checking for updated  attendance report before contacting  the attendance team.
+
+After confirming with updated attendance report
+ 
+ contacting  the attendance team.
 
 Navigating to the Attendance Enquiry Form from the VLE was straight forward. After completing the form I received  an email confirming the enquiry. 
 
