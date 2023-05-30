@@ -7,10 +7,17 @@
 2. ARUL campus facilities and amenities
 3. Involvement and participation in your lessons/lectures
 
+- introduced the topic?
+- Is there background information? 
+- Does it flow from general to specific?
+- Is the thesis statement clear?
+- Have they given an outline of the work?
 
 
-
-
+- Navigating The VLE website.
+- using the lecture materials
+- kotex 
+- 
 
 
 

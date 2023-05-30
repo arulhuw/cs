@@ -80,9 +80,9 @@
 4. What do you think should be involved in reflective practice/writing?
 ---
 ## Definitions of reflection
->### Open the document [‘Week 2 worksheet’](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md) and do Activity 1.
+>### Open the document [‘Week 2 worksheet’](/csweek2GibbsModelIntroduction/materials/CS1Week2worksheetStudents.md) and do Activity 1.
 - Look at the definitions of reflection 
-  - taken [from page 9 of your reading book](/csweek2GibbsModel%26Introduction/materials/CS1Week2worksheetStudents.md).
+  - taken [from page 9 of your reading book](/csweek2GibbsModelIntroduction/materials/CS1Week2worksheetStudents.md).
 1. Do the different definitions mean the same? 
 2. Can reflection mean different things in different subjects?  Why?
 3. Which definition would you prefer to use, generally? Why? 
