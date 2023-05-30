@@ -1,38 +1,31 @@
 # Getting started on reflective writing
-> ### For students who have never experienced reflective practice, it is hard to see the experience in a personal and analytical way.(Lecturer, Product Design)
+> For students who have never experienced reflective practice, it is hard to see the experience in a personal and analytical way.(Lecturer, Product Design)
 
-Reflective writing is new to most people. The
-comments below point to the confusion around
-reflective writing when it is part of a course and is
-assessed in some way:
-- ‘I thought I wasn’t supposed to use “I” in my
-writing.’
--  ‘I’m not putting what I really think if it’s going to be assessed!’
+Reflective writing is new to most people.  The comments below point to the confusion around reflective writing when it is part of a course and is assessed in some way:
+- ‘I thought I wasn’t supposed to use “I” in my writing.’
+- ‘I’m not putting what I really think if it’s going to be assessed!’
 -  ‘They say to reflect on the link between theory and practice – but what does that mean?’
 - ‘Can I say what I think without backing it up with references?’
->You can see the opposite pulls when reflective writing is a required part of a programme.
-Tutors are aware of it too, and try to resolve it in a number of ways.
+>You can see the opposite pulls when reflective writing is a required part of a programme. Tutors are aware of it too, and try to resolve it in a number of ways.
 
 - For example, tutors may:
-  - want to know that an informal private log or diary exists, that you add to it regularly,
-but they do not directly assess the contents
+  - want to know that an informal private log or diary exists, that you add to it regularly, but they do not directly assess the contents
   - ask you to respond to specific questions that draw
 on your ‘private’ record or recollections
   - ask you to select incidents or experiences from
 your private records, and to write about them to
 show how they have contributed to your learning.
 
-> ### On further reflection, this experience highlights a series of faults with my actions … I should have used my initiative and checked. (Ben p55 )
+> ##### On further reflection, this experience highlights a series of faults with my actions … I should have used my initiative and checked. (Ben p55 )
 *Your writing is personal, but not private*
 
 ## ‘Reflection’ means different things in different disciplines
-- In all subjects you need to think reflectively about what you learn.
-- Part of your training as a student is to familiarise you with the specific ways of thinking in your discipline: 
+-  In all subjects you need to think reflectively about what you learn.
+-  Part of your training as a student is to familiarise you with the specific ways of thinking in your discipline: 
 
-> The common thread that runs through all these is the
-whirring sound of thinking: stepping back to think
-and reflect is a conscious and deliberate process.
-Reflection is the route to making sense of it all.
+- The common thread that runs through all these is the whirring sound of thinking:
+-  stepping back to think and reflect is a conscious and deliberate process. 
+-  Reflection is the route to making sense of it all.
 
 ## Reflective writing tasks are different too
 - You may also be required to demonstrate reflection
