@@ -36,7 +36,8 @@
 >### For homework, you were asked to read pages 2-6 in your coursebook Reflective Writing. 
 - Reflective Writing [pdf](/csweek1moduleintroduction/materials/pp.2-6ofReflectiveWritingPDF.pdf)
 - Notes for Reflective Writing[notes](/csweek1moduleintroduction/materials/pp.2-6ofReflectiveWriting.md) 
-1. What are the five adjectives that can be associated with ‘being reflective?’ What do they mean?
+1. What are the **five adjectives** that can be associated with ‘being reflective?’ What do they mean?
+- **open, curious, patient, honest and rigorous**.
 2. How did their reflective practice help the MA students?
 3. Why do employers and professions encourage people to become reflective practitioners?
 ---

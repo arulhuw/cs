@@ -15,8 +15,8 @@
     - c. can change how we do things
     - d. can change what we do
 4. Employers and professions encourage people to become __________.
-    - a. lifelong learners✔
-    - b. reflective practitioners
+    - a. lifelong learners
+    - b. reflective practitioners  ✔
     - c. individuals who often reflect 
     - d. lifelong reflectors
 5. Which of the following were outcomes of reflections by the Product Design students presented on page 5? (Select 6)
