@@ -32,9 +32,16 @@
 
 ### Notes on HW
 
-1. READ: You may not have access to the book yet, so the reading pages have been uploaded on VLE as PDF
-2. Take the quiz after reading the above pages, the answers are in the reading.
-3. WRITE: You do not have to send your writing to your lecturer; you may write this in paper or on your laptop; bring it to class next CS1 lesson.
-4. WATCH: Videos in ‘Week 1 Preparation Resources’
+1. READ: You may not have access to the book yet, so the reading pages have been uploaded on
+- [VLE as PDF](materials/pp.2-6ofReflectiveWritingPDF.pdf) 
+  - notes from the reading[Reflective-Writing](materials/pp.2-6ofReflectiveWriting.md) 
+
+1. Take the quiz after reading the above pages, the answers are in the reading.
+- [Home Work quiz](/csweek1moduleintroduction/materials/homeworkquiz.md) 
+2. WRITE: You do not have to send your writing to your lecturer; you may write this in paper or on your laptop; bring it to class next CS1 lesson.
+- [Activity-sheet (docx)](/csweek1moduleintroduction/materials/IndependentstudyWeek1Writingactivity.docx)
+- [Activity note](/csweek1moduleintroduction/materials/IndependentstudyWeek1Writingactivity.md)
+3. WATCH: Videos in ‘Week 1 Preparation Resources’
+-  [A short video explaining how to write reflectively.  What to write about, what to avoid writing about and the benefits of reflective writing](https://youtu.be/QoI67VeE3ds)
 
 
