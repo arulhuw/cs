@@ -7,18 +7,18 @@
 Answer box:
 
 
-During my first week at ARU I had to contact the attendance team due to being marked absent.
+During my second week at ARU I had to contact the attendance team due to being marked absent on the attendance report.
 
 On the 22nd may I arrived at 9.30 am before the lecture started. 
-Using the in class Attendance button before 10:30 am I was able to confirm my presence.
+Using the in class Attendance button on the VLE I proceeded to  confirm my presence. 
 
-After completing a form  to contact the Attendance team  I received a confirmation email. Within the same week  I received another email confirming the mistake has been corrected.
+I kept checking for updated  attendance report to confirm my attendance for 2 more days before contacting  the attendance team.
 
+Navigating to the Attendance Enquiry Form from the VLE was straight forward. After completing the form I received  an email confirming the enquiry. 
 
+Within the same week  I received another email stating my attendance has been amended.
 
- 
-
-
+.
 
 
 
