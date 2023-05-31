@@ -89,6 +89,7 @@
 
 1. Do the different definitions mean the same? 
 2. Can reflection mean different things in different subjects?  Why?
+- **‘Reflection’ means different things in different disciplines**
 3. Which definition would you prefer to use, generally? Why? 
 4. For your assignment (Reflective Writing) purposes, would you use one of these definitions? Or would you come up with a new one combining relevant elements in them?
 
