@@ -13,10 +13,10 @@
   - [Introductory section](#introductory-section)
     - [Introduction - Activity](#introduction---activity)
   - [Introductory paragraph](#introductory-paragraph)
-  - [Opening sentence](#opening-sentence)
-  - [Background details](#background-details)
-    - [Here the writer gives more details on the topic](#here-the-writer-gives-more-details-on-the-topic)
-  - [Thesis statement and outline](#thesis-statement-and-outline)
+    - [Opening sentence](#opening-sentence)
+    - [Background details](#background-details)
+      - [For example, Topic:](#for-example-topic)
+    - [Thesis statement and outline](#thesis-statement-and-outline)
   - [Example thesis statement](#example-thesis-statement)
   - [Activity 4: Thesis statement + outline](#activity-4-thesis-statement--outline)
   - [(Note: In the possible answer, theoutline has been embedded within the thesis statement)](#note-in-the-possible-answer-theoutline-has-been-embedded-within-the-thesis-statement)
@@ -107,10 +107,15 @@
 > ### Look at the reflective model by Gibbs (1988) and do [Activity 2 in the worksheet](/csweek2GibbsModelIntroduction/materials/CS1Week2worksheetStudents.md#activity-2--gibbs-reflective-model)
 
 1. How many elements are there in this model? Which is the starting point in the model?
+- 6 elements
 2. What is involved in each element?
+- question not clear
 3. Why is each element important in this reflective cycle?
+- question not clear
 4. Have you seen any other reflective models? How are they different from this one?
+- question not clear
 5. As you see, this model was introduced in 1988? Do you think it is still relevant and applicable? Why?
+- question not clear
 ---
 ## Introductory section
 
@@ -118,57 +123,75 @@
 
 
 1. Why is an introductory section important in a piece of writing? How does it help the readers?
+>###### The first sentence of the introductory paragraph introduces the topic/theme to the readers. It helps readers know what the topic is.
 2. What do you think should go in an introduction? What is the purpose of each sentence/part in an introduction?
+  > ######  an introductory paragraph contains:
+- **Opening sentence**
+- **Background details**
+- **Thesis statement**
+- **Outline**
+
 3. What % of the whole work should an introduction be? 50%?
-4. What is a thesis statement? Why / How does it help the readers? Where do you usually write a thesis statement in a piece of writing?
+- **it should be 10%**
+4. What is a thesis statement?
+- Why / How does it help the readers? 
+- Where do you usually write a thesis statement in a piece of writing?
 5. Does an introduction need an outline? Why (not)?
 
 ## Introductory paragraph
 
-> ### So, let us sum up that:
-> ### an introductory paragraph contains:
-1. Opening sentence
-2. Background details
-3. Thesis statement
-4. Outline
+> ##### An introductory paragraph contains:
+1. **Opening sentence**
+2. **Background details**
+3. **Thesis statement**
+4. **Outline**
 
-## Opening sentence
+### Opening sentence
 
->### The first sentence of the introductory paragraph introduces the topic/theme to the readers. It helps readers know what the topic is.
+>##### The first sentence of the introductory paragraph introduces the topic/theme to the readers. It helps readers know what the topic is.
 
 **For example**
--   Topic: Reflective writing on how you used technology in your lessons/lectures
--   Opening/introducing the topic: Technology plays a very big role in the life of a successful student.
-
-- Can you come up with an opening sentence for this topic?
+- **Topic:**
+  - Reflective writing on how you used technology in your lessons/lectures
+    - **Opening/introducing the topic:** 
+  - **Technology plays a very big role in the life of a successful student**.
+  ---
+1. Can you come up with an opening sentence for this topic?
   - Reflective writing on your greatest achievement last year
 >**Ans: Achievements help us value ourselves and what we do.**
 
-## Background details
+  ---
+### Background details
+>- ##### Here the writer gives more details on the topic;
+>- ##### they flow from general to more specific.
 
-### Here the writer gives more details on the topic
-- they flow from general to more specific.
-- For example, Topic: Reflective writing on how you used technology in your lessons/lectures
+
+####   For example, Topic:
+**Reflective writing on how you used technology in your lessons/lectures**
 - Technology plays a very big role in the life of a successful student. 
 - It is highly unlikely that technology will not offer a solution to a university student’s problem, 
-- whether it is related to the subject they are studying,
-- working on assignments, student union, researching, reading materials or academic support.
+- whether it is related to 
+  - the subject they are studying,
+  - working on assignments,
+  - student union,
+  - researching, 
+  - reading materials or
+  - academic support.
 - Since I started my degree course at ARUL, 
 - I have also relied on technology for various matters, 
 - and I feel very positive about the benefit of using technology in studies. 
-
-
 > #### **As you see above, the writer has moved from general in the beginning to more specific towards the end.**
 ---
-## Thesis statement and outline
+### Thesis statement and outline
 - A thesis statement **states the main idea** of the whole writing.
-- A thesis statement in an essay is like the topic sentence of a paragraph.
+- A thesis statement in an essay is like the **topic sentence of a paragraph.**
 - A thesis statement also uses appropriate **signposting language** such as, 
   - The main ideas discussed in this work are…
   - This work will describe, evaluate and analyse…
 - The thesis statement may also indicate the **pattern of organisation** of the essay. 
 - This outline can be written as a separate sentence, or embedded within the thesis statement.
-- For example, **This essay will first look at the literature relevant to the strategy, then present the problems in implementing this strategy and finally suggest possible solutions to them**. 
+- For example, 
+  - **This essay will first look at the literature relevant to the strategy, then present the problems in implementing this strategy and finally suggest possible solutions to them**. 
 ---
 ## Example thesis statement
 > #### Topic: Reflective writing on how you used technology in your lectures
@@ -179,11 +202,6 @@
 - In the latter part, I will present my conclusions of my reflections and possible action plan for future improvement. 
 ---
 
-|Opening sentence| Background details|
-|----------------|-------------------|	
-|Outline         |  Thesis statement |	
-
----
 ## Activity 4: Thesis statement + outline
 
 

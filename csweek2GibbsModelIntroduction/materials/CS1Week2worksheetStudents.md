@@ -22,6 +22,7 @@
 ## Activity 2 – Gibbs’ reflective model
 > ### Look at the reflective model by Gibbs (1988) and discuss the 
 1.	How many elements are there in this model? Which is the starting point in the model?
+- **Description** What happened?
 2.	What is involved in each element?
 3.	Why is each element important in this reflective cycle?
 4.	Have you seen any other reflective models? How are they different from this one?
