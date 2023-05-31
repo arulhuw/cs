@@ -23,8 +23,14 @@
  
 - Materials and activities used in your lessons/lectures 
     - Focus more about VLE: online
+
 Technology has made it possible for people to learn and grow in ways that were never before possible.
-The adaption technology at Educational institutes i.e Universities and Schools  has helped to ease  Communication and knowledge transfer. 
+The adaption of technology at Educational institutes i.e Universities and Schools has improved communication and knowledge transfer. During The first lecture at ARUL it was evidently clear most of the materials used are digital i.e no paper.Laptops and Tablets are used for in class activity and taking notes.
+
+This reflective document is to explain, evaluate and analyse  **Materials and activities used in your lessons/lectures** 
+
+
+
 
 
 
