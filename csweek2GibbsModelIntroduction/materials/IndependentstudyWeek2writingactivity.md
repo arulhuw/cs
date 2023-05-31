@@ -20,12 +20,12 @@
 - kotex 
 - 
 
-Communication and knowledge transfer. 
  
-technology has made it possible for people to learn and grow in ways that were never before possible.
+- Materials and activities used in your lessons/lectures 
+    - Focus more about VLE: online
+Technology has made it possible for people to learn and grow in ways that were never before possible.
+The adaption technology at Educational institutes i.e Universities and Schools  has helped to ease  Communication and knowledge transfer. 
 
-
-we can expect to see even more innovative ways to communicate and share knowledge.
 
 
 
