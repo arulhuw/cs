@@ -26,9 +26,12 @@
 Technology has made it possible for people to learn and grow in ways that were never before possible.
 
 The adaption of technology at Educational institutes i.e Universities and Schools has improved communication and knowledge transfer. During The first lecture at ARUL it was evidently clear most of the materials used are digital i.e no paper.
+
 Laptops and Tablets are used for in class activity and taking notes with very limited use of pen and paper.
 
-This document is composed  to explain, evaluate and analyse  **Materials and activities used in lessons/lectures**. A
+Composed with reflective writing on **Materials and activities used in lessons/lectures**.  this document will present my feelings and thoughts using the  digital(online)resources.
+The main focus of the document will be the  VLE. After introducing the topics, I will explain, evaluate and analyse  my interactions so far. 
+followed by conclusion of my reflections with possible action plan. 
 
 
 
