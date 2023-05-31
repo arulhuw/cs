@@ -9,27 +9,30 @@
 
 
 ## Activity 1 – Definitions of reflective practice (or reflection)
-> ### Look at the definitions of reflection below (taken from page 9 of your book) and discuss the following questions in groups of 3 or 4.
+> ### Look at the definitions of reflection below (taken from page 9 of your book)
 1. Do the different definitions mean the same? 
+- **No they don't**
 2. Can reflection mean different things in different subjects? Why? 
+- **‘Reflection’ means different things in different disciplines**
 3. Which definition would you prefer to use, generally? Why? 
+- **trying to make a connection between what was up on the board or in the notes, and something that I actually experienced in real life.**
 4. For your assignment (Reflective Writing) purposes, would you use one of these definitions? Or would you come up with a new definition combining relevant elements in these definitions?
-
+- **Materials and activities used in your lessons/lectures**
 
 ## Activity 2 – Gibbs’ reflective model
-> ### Look at the reflective model by Gibbs (1988) and discuss the following in groups:
+> ### Look at the reflective model by Gibbs (1988) and discuss the 
 1.	How many elements are there in this model? Which is the starting point in the model?
 2.	What is involved in each element?
 3.	Why is each element important in this reflective cycle?
 4.	Have you seen any other reflective models? How are they different from this one?
 5.	As you see, this model was introduced in 1988? Do you think it is still relevant and applicable? Why?
 
-    1. **Action plan** if it arose again what will you do?
-    2. **Description** What happened?
-    3. **Feelings** What were you thinking and feeling ?
-    4. **Evaluation** What was good and bad about the experience ?
-    5. **Analysis** What sense can you make of the situation ?
-    6. **Conclusion** What else could you have done
+- **Description** What happened?
+- **Feelings** What were you thinking and feeling ?
+- **Evaluation** What was good and bad about the experience ?
+- **Analysis** What sense can you make of the situation ?
+- **Conclusion** What else could you have done
+- **Action plan** if it arose again what will you do?
 
 
 
