@@ -20,6 +20,12 @@
 - kotex 
 - 
 
+Communication and knowledge transfer. 
+ 
+technology has made it possible for people to learn and grow in ways that were never before possible.
+
+
+we can expect to see even more innovative ways to communicate and share knowledge.
 
 
 
