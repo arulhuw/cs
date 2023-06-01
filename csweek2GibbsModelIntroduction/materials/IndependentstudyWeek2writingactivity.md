@@ -17,7 +17,6 @@
 
 - Navigating The VLE website.
 - using the lecture materials
-- kotex 
 
  
 - Materials and activities used in your lessons/lectures 
@@ -25,8 +24,7 @@
 
 Technology has made it possible for people to learn and grow in ways that were never before possible.
 
-The adaption of technology at Educational institutes i.e Universities and Schools has improved communication and knowledge transfer. During The first lecture at ARUL it was evidently clear most of the materials used are digital i.e no paper.
-
+The adaption of technology at Educational institutes i.e Universities and Schools has improved communication and knowledge transfer immensely. During The first lecture at ARUL it was evidently clear  most of the materials used are digital i.e no paper. 
 Laptops and Tablets are used for in class activity and taking notes with very limited use of pen and paper.
 
 Composed with reflective writing on **Materials and activities used in lessons/lectures**.  this document will present my feelings and thoughts using the  digital(online)resources.
