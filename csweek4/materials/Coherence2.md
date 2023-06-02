@@ -35,3 +35,33 @@ f. recording your practice and actions ✔
     - What do you think about the situation now?
 
 >#### Open Week 4 worksheet and go to Activity 1. Read the [example paragraph of Feelings/thoughts.](/csweek4/materials/week4Worksheet.md#activity-1)
+
+## Words of feelings
+### Gradable and ungradable adjectives
+|Ungradable|	Gradable|
+|----------|----------|
+|terrible|	bad|
+freezing|	cold
+exhausted|	tired
+furious|	angry
+---
+## Reference words
+### Common reference words - examples
+> ##### Reference words generally include pronouns – the most common examples are: 
+- She / he / hers / his
+- It / they / them
+- This / that
+- These / those
+- The former / the latter / respectively
+- Who / which / that
+- One / one’s
+- Such
+
+### Activity 3: 
+>##### Reference words
+
+
+
+1. Go to Activity 3 – [Reference words worksheet.](/csweek4/materials/week4Worksheet.md#activity-3)
+2. Decide which words should be replaced with reference words. (Please note that one answer doesn’t feature in the list – you’ll need to work this out for yourself based on what you’ve just learned.)
+3. Re-write the paragraph (including reference words).
