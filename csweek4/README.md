@@ -13,6 +13,10 @@
 - TASK 1:
 Kortext READ: pp. 24-28 [Reflecting on yourself and your experiences](/csweek4/materials/Kortextreading.pdf)
 
-- TASK 2: 
-Week 4: Homework Quiz (To be taken after reading pp. 24-28) TASK 2: Week 4: Homework Quiz (To be taken after reading pp. 24-28)
-TASK 3: CS1 - Week 4 - Independent Study - Writing TASK 3: CS1 - Week 4 - Independent Study - Writing
+## TASK 2: Homework Quiz 
+- To be taken after reading [pp. 24-28]() 
+
+
+TASK 3: 
+- Independent Study - Writing
+- Independent study – Week 4
