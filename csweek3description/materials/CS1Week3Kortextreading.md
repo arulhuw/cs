@@ -40,7 +40,7 @@ journal will, of course, vary from one discipline to another.
   - an artwork (Creative Arts) 
 
 -  will be learning to:
-    - **look at** or observe objects, paintings, structures
+    - **look at or observe** objects, paintings, structures
     - **analyse** what they see (form, function, materials)
     - **consider** how each element contributes to the whole
     - **be aware** of how they have borrowed, changed or built on the ideas of other practitioners, artists or theories
