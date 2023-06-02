@@ -34,4 +34,4 @@ f. recording your practice and actions ✔
     - What were you thinking during the situation?
     - What do you think about the situation now?
 
->#### Open Week 4 worksheet and go to Activity 1. Read the [example paragraph of Feelings/thoughts.]()
+>#### Open Week 4 worksheet and go to Activity 1. Read the [example paragraph of Feelings/thoughts.](/csweek4/materials/week4Worksheet.md#activity-1)
