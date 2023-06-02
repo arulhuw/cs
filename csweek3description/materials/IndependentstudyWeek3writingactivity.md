@@ -5,9 +5,19 @@
 2. ARUL campus facilities and amenities
 3. Involvement and participation in your lessons/lectures
 
+## references
+- [Lecture]
+- 
+- [Example](/csweek3description/materials/sample-description.md) 
 
 
 
+
+
+- When and where did the event / situation happen? Why were they there?
+- Who was present? What did they and the other people do?
+- What happened? What did they want to happen?
+- What was the outcome of the situation?
 
 
 
