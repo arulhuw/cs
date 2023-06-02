@@ -93,7 +93,7 @@ and imagination of the **audience**.
   - **like**
     - **Group processes**
 -  he knew what he was  doing  but it was far too 
-   -  complicated 
+   -  **complicated** 
       -  **Design process**
 -  to build in time and our semi-finished 
 -  bridge didn’t even support 
