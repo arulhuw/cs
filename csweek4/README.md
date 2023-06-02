@@ -12,10 +12,10 @@
 ## TASK 1: READING
 - TASK 1:
 Kortext READ: pp. 24-28 [Reflecting on yourself and your experiences](/csweek4/materials/week4Kortextreading.pdf)
+Kortext READ: pp. 24-28 Note [Reflecting on yourself and your experiences](/csweek4/materials/week4Kortextreading.md)
 
 ## TASK 2: Homework Quiz 
 - To be taken after reading [pp. 24-28](/csweek4/materials/week4Kortextreading.pdf) 
-
 
 TASK 3: 
 - Independent Study - Writing
