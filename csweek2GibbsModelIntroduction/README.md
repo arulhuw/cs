@@ -18,15 +18,11 @@
 ### TASK 4. [Gibbs' Reflective Cycle Explained](https://youtu.be/-gbczr0lRf4)
 
 
-### Independent study 
+## Independent study 
+> Write an **Introduction** paragraph of about 150 words. 
+ 
+- ###  Materials and activities used in your lessons/lectures 
 - #### [Week 2 Writing activity](/csweek2GibbsModelIntroduction/materials/IndependentstudyWeek2writingactivity.docx)
   - #### [week 2 writing activity note](/csweek2GibbsModelIntroduction/materials/IndependentstudyWeek2writingactivity.md)
    
   - #### [week 2 writing activity sample](/csweek2GibbsModelIntroduction/materials/sample-introduction.md)
-> Choose one of the following aspects of your ARUL student life and write an **Introduction** paragraph of about 150 words. We discussed in class in Week 2 what should go in the Introduction section of a reflective writing. 
- 
- 
-1. Materials and activities used in your lessons/lectures 
-2. ARUL campus facilities and amenities
-3. Involvement and participation in your lessons/lectures
-

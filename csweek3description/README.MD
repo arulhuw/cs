@@ -24,8 +24,9 @@
 ## Independent study homework 
 
 
-- ### READ: Reflective writing: 
-  - pp. 39-48  [A reflective diary or learning journal](/csweek3/materials/CS1Week3Kortextreading.pdf) 
+-  **READ: Reflective writing:** 
+   - [A reflective diary or learning journal](/csweek3description/materials/CS1Week3Kortextreading.pdf) 
+   - [Notes for reading activity](/csweek3description/materials/CS1Week3Kortextreading.md) 
 - ANSWER: 
   - Homework Quiz 3 on VLE
 - WRITE: 
