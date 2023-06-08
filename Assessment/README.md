@@ -12,7 +12,7 @@
 ### Task summary: 
 
 > #### Produce a 1500-word reflective writing that describes, evaluates, and analyses an aspect of your student life in ARUL. 
-
+> #### with 10% margin +-
 Choose only one of the following aspects of your ARUL student life for your reflective writing:
 1. <span style="color:red"> Materials and activities used in your lessons/lectures  </span>
 2. <span style="color:red">  ARUL campus facilities and amenities
